@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monkey Tail - opensource lightweight bash swiss-army *nix tool
-published: false
+published: true
 made-with: HTML5
 categories: [projects, sites]
 permalink: /projects/monkey-tail
