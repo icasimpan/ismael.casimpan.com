@@ -1,0 +1,200 @@
+<!doctype html>
+
+<!--
+
+  Hi there, I'm Ismael Casimpan, welcome to my source code.
+
+  If you are reading this, you might enjoy the full source for icasimpan.github.io:
+    http://github.com/icasimpan/icasimpan.github.io
+
+  Find other code of mine at http://github.com/icasimpan
+
+  This page was built with the HTML5 boilerplate, templated with Jekyll, and edited using vim.
+
+-->
+
+<!-- Conditional html tag classes -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>{{ page.title }}</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <link rel="stylesheet" href="/css/style.css">
+  <script src="/js/libs/modernizr-2.0.6.min.js"></script>
+
+  <link href="/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/stylesheets/pygments.css" rel="stylesheet">
+
+  <style type="text/css">
+    /* Override some defaults */
+    html, body {
+      background-color: #eee;
+    }
+    body {
+      padding-top: 40px; /* 40px to make the container go all the way to the bottom of the topbar */
+    }
+    .container > footer p {
+      text-align: center; /* center align it with the container */
+    }
+    .container {
+      width: 820px; /* downsize our container to make the content feel a bit tighter and more cohesive. NOTE: this removes two full columns from the grid, meaning you only go to 14 columns and not 16. */
+    }
+
+    /* The white background content wrapper */
+    .content {
+      background-color: #fff;
+      padding: 20px;
+      margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
+      -webkit-border-radius: 0 0 6px 6px;
+         -moz-border-radius: 0 0 6px 6px;
+              border-radius: 0 0 6px 6px;
+      -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+         -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+              box-shadow: 0 1px 2px rgba(0,0,0,.15);
+    }
+
+    /* Page header tweaks */
+    .page-header {
+      background-color: #f5f5f5;
+      padding: 20px 20px 10px;
+      margin: -20px -20px 20px;
+    }
+
+    /* Styles you shouldn't keep as they are for displaying this base example only */
+    .content .span10,
+    .content .span4 {
+      min-height: 500px;
+    }
+    /* Give a quick and non-cross-browser friendly divider */
+    .content .span4 {
+      margin-left: 0;
+      padding-left: 19px;
+      border-left: 1px solid #eee;
+    }
+
+    .topbar .btn {
+      border: 0;
+    }
+
+  </style>
+</head>
+
+<body>
+
+  <div class="topbar">
+     <div class="fill">
+       <div class="container">
+         <a class="brand" href="/">Ismael Casimpan</a>
+         <ul class="nav">
+           <li class="notactive"><a href="/">Home</a></li>
+           <li><a href="http://github.com/icasimpan">GitHub</a></li>
+           <li><a href="http://www.linkedin.com/in/icasimpan">LinkedIn</a></li>
+         </ul>
+         <form action="" class="pull-right">
+           <input class="input-small" type="text" placeholder="Username">
+           <input class="input-small" type="password" placeholder="Password">
+           <button class="btn" type="submit">Sign in</button>
+         </form>
+       </div>
+     </div>
+   </div>
+
+   <div class="container">
+     <div class="content">
+       <div class="page-header">
+       <!-- ######### MIGHT BE REMOVED 
+         {% if page.books %}
+        <div class="books">
+           {% for book in (1..12) %}
+            <img src="/images/books/{{book}}.jpeg" class="book"/>
+           {% endfor %}
+         </div>
+         {% else %}
+         <h1><a href="{{ page.url }}">{{ page.title }}</a> <small>{{page.description}} {{ page.made-with }}</small></h1>
+         {% endif %}
+       ######### MIGHT BE REMOVED -->
+
+       </div>
+       <div class="row">
+         <div class="span{%if page.sidebar%}10{%else%}14{%endif%}">
+           <!-- <h2>Main content</h2> -->
+           {{ content }}
+         </div>
+         {% if page.sidebar %}
+         <div class="span4 sidebar">
+           <!-- <h3>Secondary content</h3> -->
+           {{ page.sidebar }}
+         </div>
+        {% endif %}
+       </div>
+     </div>
+
+     <footer>
+       <p>Built by Ismael Casimpan, 2014. <a href="http://github.com/icasimpan/icasimpan.github.io">Fork his code on GitHub!</a></p>
+     </footer>
+
+   </div> <!-- /container -->
+
+  <!-- JavaScript at the bottom for fast page loading -->
+
+  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.6.2.min.js"><\/script>')</script>
+
+  <!-- scripts concatenated and minified via ant build script-->
+  <script defer src="js/plugins.js"></script>
+  <script defer src="js/script.js"></script>
+  <!-- end scripts-->
+
+  <!-- scripts specific to post-->
+  <script>{{ page.script }}</script>
+
+  {% if page.slider %}
+  <script type="text/javascript" src="/js/slider.js"></script>
+  <link href="/css/slider.min.css" rel="stylesheet" type="text/css" />
+  {% endif %}
+
+  {% if page.slider %}
+  <script>
+    var slider = new Slider($('#slider'));
+    slider.setTransition('circle').setPhotos([
+      { "src" : "/images/sprayplayscreenshot.png", "name": "Spray Play" },
+      { "src" : "/images/eotwscreenshot.png", "name": "End of the World" },
+      { "src" : "/images/ktgraph.png", "name": "Typing Analysis" },
+      { "src" : "/images/ktsidebar.png", "name": "Typing Analysis" },
+      { "src" : "/images/ktnetwork.png", "name": "Typing Analysis" },
+      { "src" : "/images/sytyk.png", "name": "Facebook App" },
+      { "src" : "/images/gifurl.png", "name": "GifURL" },
+      { "src" : "/images/redruby.jpg", "name": "Flesch Readability" },
+      { "src" : "/images/ktfull.png", "name": "Typing Game" },
+      { "src" : "/images/railsgonewild.png", "name": "Rails Docs Gone Wild" },
+      { "src" : "/images/ravegame.png", "name": "Rave Game (HTML5)" }
+    ]);
+    slider.setSize(400, 250);
+  </script>
+  {% endif %}
+
+  <!-- Change UA-XXXXX-X to be your site's ID -->
+  <script>
+    window._gaq = [['_setAccount','UA-XXXXXX-X'],['_trackPageview'],['_trackPageLoadTime']];
+    Modernizr.load({
+      load: ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js'
+    });
+  </script>
+
+  <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you want to support IE 6.
+       chromium.org/developers/how-tos/chrome-frame-getting-started -->
+  <!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+
+</body>
+</html>

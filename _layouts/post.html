@@ -1,0 +1,55 @@
+---
+layout: layout
+---
+  <div id="post">
+    <div class="authoring">
+      <!-- {{ page.date | date: "%B %e, %Y" }} -->
+    </div>
+    {% if page.made-with %}
+    <div class="projecting">
+      <!-- Made using: {{ page.made-with }}<br/> -->
+      <!-- {% if page.worked-with %} Worked with: {{ page.worked-with }} {%endif%} -->
+    </div>
+    {% endif %}
+    {{ content }}
+  </div>
+
+  <div class="authorship">
+    <h3>About the Author</h3>
+    <div class="copy">
+      <a href="https://twitter.com/icasimpan"><img src="/images/icasimpan.jpeg" height="50" width="50" class="avatar" /></a>
+
+      <p>
+        Ismael is an IT Professional and currently employes as a Software Build Engineer. More about him on his<a href="http://linkedin.com/in/icasimpan">LinkedIn Profile</a>.
+      </p>
+
+      {% if page.hn %}
+      <p>
+        You can discuss, upvote, downvote, and poke fun at this post.
+      </p>
+      {% endif %}
+
+      <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="icasimpan">Tweet</a>
+      <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+      <a href="http://twitter.com/bcjordan" class="twitter-follow-button" data-show-count="false">Follow @icasimpan</a><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+    </div>
+<br/><br/>
+      <div>
+          <div id="disqus_thread"></div>
+          <script type="text/javascript">
+              var disqus_shortname = 'icasimpan';
+              (function () {
+                  var dsq = document.createElement('script');
+                  dsq.type = 'text/javascript';
+                  dsq.async = true;
+                  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+                  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+              })();
+          </script>
+          <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+              Disqus.</a></noscript>
+          <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span
+                  class="logo-disqus">Disqus</span></a>
+      </div>
+  </div>

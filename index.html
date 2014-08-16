@@ -1,0 +1,23 @@
+---
+layout: layout
+title: "Ismael Angelo Casimpan Jr."
+slider: true
+books: false
+---
+<div id='slider' style="float:right"></div>
+    <div class="projects">
+    <h1>Open Source Contribution</h1>
+    <ul>
+      <li><a href="http://ismael.casimpan/shcf/">SHCF - Simple Framework for Shellscripting Using Bash</a></li>
+    </ul>
+  </div>
+  <div class="posts">
+    <h1>Tips and Tricks:</h1>
+    <ul>
+    {% for post in site.categories.tricks %}
+      <li>
+        <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{% if post.external_url %}{{ post.external_url }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
