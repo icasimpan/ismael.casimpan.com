@@ -3,8 +3,8 @@ layout: post
 title: Monkey Tail - opensource lightweight bash swiss-army *nix tool
 published: true
 made-with: HTML5
-categories: [projects, sites]
-permalink: /projects/monkey-tail
+categories: [blog, sites,tricks]
+permalink: /blog/monkey-tail
 sidebar: 
 ---
 
