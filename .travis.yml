@@ -14,16 +14,23 @@ env:
 ## Force commit to 'master' the built hugo site
 after_success:
   - MESSAGE='Auto-built and commit via Travis CI.'
+  - pwd
   - ls -l
   - mv ${BUILD_DIR} ~/ || exit 1
   - cd ~/{BUILD_DIR}
+  - pwd
+  - ls -l
   - git init
   - git add .
   - git config user.email ${EMAIL}
   - git config user.name ${DEPLOYMENT_USER}
   - git commit -m "${MESSAGE}"
-  - git checkout -b ${GH_PUBLISH_BRANCH}
-  - git push "https://${GITHUB_TOKEN}@${GH_REPO}" ${GH_PUBLISH_BRANCH} -f
+  - git branch
+  #- git checkout -b ${GH_PUBLISH_BRANCH}
+  #- git push "https://${GITHUB_TOKEN}@${GH_REPO}" ${GH_PUBLISH_BRANCH} -f
+   - git remote add origin https://${GITHUB_TOKEN}@${GH_REPO}
+   - git remote -v
+   - git push -u origin ${GH_PUBLISH_BRANCH} -f
 
 install:
     - wget ${HUGO_INSTALLER_URL}
