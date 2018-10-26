@@ -1,4 +1,4 @@
-baseurl = "https://ismael.casimpan.com/"
+baseurl = "/"
 title = "icasimpan"
 theme = "hugo-coder"
 languagecode = "en"
