@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = ""
 title = "icasimpan"
 theme = "hugo-coder"
 languagecode = "en"
