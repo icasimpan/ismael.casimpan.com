@@ -1,7 +1,7 @@
 ---
-title: "SHCF - Shell Coding Simplified"
+title: "Projects"
 date: 2018-10-14T21:32:00+08:00
-tags: [shell, shdk, shell scripting, open source]
+tags: [projects, open source]
 draft: false
 ---
 
