@@ -66,5 +66,5 @@ disqusShortname = "icasimpan"
     url  = "/projects/"
 [[menu.main]]
     name = "About"
-    weight = 2
+    weight = 3
     url = "/about/"
