@@ -17,7 +17,7 @@ after_success:
   - pwd
   - ls -l
   - mv ${BUILD_DIR} ~/ || exit 1
-  - cd ~/{BUILD_DIR}
+  - cd ~/${BUILD_DIR}
   - pwd
   - ls -l
   - git init
