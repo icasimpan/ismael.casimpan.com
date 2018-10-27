@@ -8,12 +8,14 @@ draft: false
 I recently faced a situation wherein I have to permanently redirect a list of URLs to a single URL. I'm used to doing it for 1 to 1 redirects(1 url to another) but this is the first time I did it for a lot of URL. 
 
 Example:
+
 * http://www.example.com/oldschool/index.php?i=1
 * http://www.example.com/oldschool/index.cfm?i=55
 * http://www.example.com/oldschool/SchoolOfRock.html
 * http://www.example.com/oldschool/School-of-Knocks.htm
 
 will need to be redirected to:
+
 * http://www.example.com/university
 
 The solution? Use the [RedirectMatch](https://httpd.apache.org/docs/2.4/mod/mod_alias.html#redirectmatch) directive in Apache.
@@ -31,4 +33,4 @@ In the above example, the exact RedirectMatch is:
 RedirectMatch 301 ^/oldschool/(.*) http://www.example.com/university
 ```
 
-###### NOTE: First published in my [now defunct blog](https://web.archive.org/web/20100927055819/http://www.buggedtech.com:80/).
+<small>NOTE: First published in my [now defunct blog](https://web.archive.org/web/20100927055819/http://www.buggedtech.com:80/).</small>
