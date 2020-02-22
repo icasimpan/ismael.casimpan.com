@@ -10,4 +10,6 @@ Experience with open source systems is in installation and usage...most familiar
 
 I don't hate Microsoft Windows but I just like a Unix-like system (and I run cygwin now and latetly msys2) so I'm kinda at home with the CLI regardless of OS.
 
+Since Mar 2019, I passed my Linux Certifications [CompTIA Linux+](https://www.youracclaim.com/badges/930a39ef-db7a-4658-bf3d-52c717d7ff85/linked_in_profile) and [LPIC-1: Linux Administrator](http://lpi.org/v/LPI000410499/cwztwt6lnb) and currently working on getting CompTIA Security+ certified.
+
 Been experimenting with golang lately and loving it :)
