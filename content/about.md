@@ -8,7 +8,7 @@ Currently employed as System Administrator in a Web Development Company speciali
 
 Experience with open source systems is in installation and usage...most familiar with CentOS and Ubuntu, Apache, PHP and has a bit of knowledge in Qmail and MySQL. Virtualization experience is mostly in VMWare (the free version), Oracle VirtualBox and Parallels. Public cloud experience includes AWS, Rackspace Cloud, Google Cloud, DigitalOcean and of course Acquia for Drupal.
 
-I don't hate Microsoft Windows but I just like a Unix-like system (and I run cygwin now and latetly msys2) so I'm kinda at home with the CLI regardless of OS.
+I don't hate Microsoft Windows but I just like a Unix-like system (and I run cygwin now and lately msys2) so I'm kinda at home with the CLI regardless of OS.
 
 Since Mar 2019, I hold the following industry certifications:
 
