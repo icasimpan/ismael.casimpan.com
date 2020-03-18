@@ -11,6 +11,7 @@ Experience with open source systems is in installation and usage...most familiar
 I don't hate Microsoft Windows but I just like a Unix-like system (and I run cygwin now and latetly msys2) so I'm kinda at home with the CLI regardless of OS.
 
 Since Mar 2019, I hold the following industry certifications:
+
 - [CompTIA Linux+](https://www.youracclaim.com/badges/930a39ef-db7a-4658-bf3d-52c717d7ff85)
 - [LPIC-1: Linux Administrator](http://lpi.org/v/LPI000410499/cwztwt6lnb)
 - [CompTIA Security+](https://www.youracclaim.com/badges/0142b954-2449-41d5-9e97-1503f04d2457)
