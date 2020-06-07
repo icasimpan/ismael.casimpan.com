@@ -20,3 +20,4 @@ draft: false
 * [Curl](https://ismael.casimpan.com/quicktasks-curl)
 * [Firewall](https://ismael.casimpan.com/quicktasks-firewall)
 * [Solr](https://ismael.casimpan.com/quicktasks-solr)
+* [TLS/SSL Cert](https://ismael.casimpan.com/quicktasks-sslcert)
