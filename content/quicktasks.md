@@ -21,3 +21,4 @@ draft: false
 * [Firewall](https://ismael.casimpan.com/quicktasks-firewall)
 * [Solr](https://ismael.casimpan.com/quicktasks-solr)
 * [TLS/SSL Cert](https://ismael.casimpan.com/quicktasks-sslcert)
+* [Kubernetes](https://ismael.casimpan.com/quicktasks-k8s)
