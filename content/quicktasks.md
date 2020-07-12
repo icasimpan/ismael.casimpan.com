@@ -26,3 +26,4 @@ draft: false
 * [Jenkins](https://ismael.casimpan.com/quicktasks-jenkins)
 * [WebServer](https://ismael.casimpan.com/quicktasks-webserver)
 * [Linux](https://ismael.casimpan.com/quicktasks-linux)
+* [PowerShell](https://ismael.casimpan.com/quicktasks-powershell)
