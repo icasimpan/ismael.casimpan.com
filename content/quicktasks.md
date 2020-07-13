@@ -27,3 +27,5 @@ draft: false
 * [WebServer](https://ismael.casimpan.com/quicktasks-webserver)
 * [Linux](https://ismael.casimpan.com/quicktasks-linux)
 * [PowerShell](https://ismael.casimpan.com/quicktasks-powershell)
+* [Varnish](https://ismael.casimpan.com/quicktasks-varnish)
+* [SSH](https://ismael.casimpan.com/quicktasks-ssh)
