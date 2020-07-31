@@ -29,3 +29,4 @@ draft: false
 * [PowerShell](https://ismael.casimpan.com/quicktasks-powershell)
 * [Varnish](https://ismael.casimpan.com/quicktasks-varnish)
 * [SSH](https://ismael.casimpan.com/quicktasks-ssh)
+* [Troubleshooting](https://ismael.casimpan.com/quicktasks-troubleshooting)
