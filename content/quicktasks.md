@@ -29,4 +29,5 @@ draft: false
 * [PowerShell](https://ismael.casimpan.com/quicktasks-powershell)
 * [Varnish](https://ismael.casimpan.com/quicktasks-varnish)
 * [SSH](https://ismael.casimpan.com/quicktasks-ssh)
+* [Raspberry Pi](https://ismael.casimpan.com/quicktasks-raspberrypi)
 * [Troubleshooting](https://ismael.casimpan.com/quicktasks-troubleshooting)
