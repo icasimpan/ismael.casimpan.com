@@ -8,7 +8,7 @@ env:
   - REPO="icasimpan.github.io"
   - BUILD_DIR="public"
   - GH_REPO="github.com/${USER}/${REPO}.git"
-  - HUGO_INSTALLER_URL="https://github.com/gohugoio/hugo/releases/download/v0.49.2/hugo_0.49.2_Linux-64bit.deb"
+  - HUGO_INSTALLER_URL="https://github.com/gohugoio/hugo/releases/download/v0.73.0/hugo_0.73.0_Linux-64bit.deb"
   - GH_PUBLISH_BRANCH='master'
 
 ## Force commit to 'master' the built hugo site
