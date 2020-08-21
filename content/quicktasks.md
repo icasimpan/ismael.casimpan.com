@@ -23,7 +23,7 @@ draft: false
 * [TLS/SSL Cert](https://ismael.casimpan.com/quicktasks-sslcert)
 * [Kubernetes](https://ismael.casimpan.com/quicktasks-k8s)
 * [NewRelic](https://ismael.casimpan.com/quicktasks-newrelic)
-* [Jenkins](https://ismael.casimpan.com/quicktasks-jenkins)
+* [CI](https://ismael.casimpan.com/quicktasks-ci)
 * [WebServer](https://ismael.casimpan.com/quicktasks-webserver)
 * [Linux](https://ismael.casimpan.com/quicktasks-linux)
 * [PowerShell](https://ismael.casimpan.com/quicktasks-powershell)
