@@ -12,7 +12,6 @@ My pi arrived first and after thoroughly reading the specs, I laughed at myself 
 Well, I can no longer cancel the order so I nothing more I can do. It's costs PHP 299.00 including shipping.
 
 When the dongle arrived, I had no expectations. Included in the item was a little cd which I assume is the driver. 
-<insert_here_dongle_item_pic>
 ![Boxed USB Wireless Dongle Item](/static/images/usb_wireless_dongle_boxed.jpg)
 ![Close-up Look of the USB Wireless Dongle](/static/images/usb_wireless_dongle_closeup.png)
 
