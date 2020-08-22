@@ -13,8 +13,8 @@ Well, I can no longer cancel the order so I nothing more I can do. It's costs PH
 
 When the dongle arrived, I had no expectations. Included in the item was a little cd which I assume is the driver. 
 <insert_here_dongle_item_pic>
-![Boxed USB Wireless Dongle Item](/static/image/usb_wireless_dongle_boxed.jpg)
-![Close-up Look of the USB Wireless Dongle](/static/image/usb_wireless_dongle_closeup.png)
+![Boxed USB Wireless Dongle Item](/static/images/usb_wireless_dongle_boxed.jpg)
+![Close-up Look of the USB Wireless Dongle](/static/images/usb_wireless_dongle_closeup.png)
 
 
 I never used the CD as I don't think it would come with a Linux driver. So I plugged it in the raspberry pi and saw this:
