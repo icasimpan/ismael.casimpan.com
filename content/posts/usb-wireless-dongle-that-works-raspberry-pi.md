@@ -29,11 +29,14 @@ Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 Bus 001 Device 003: ID 148f:7601 Ralink Technology, Corp. MT7601U Wireless Adapter
 ```
 Checked from LanScan and it's detected:
-<insert_here_lanscan_pic>
+![LanScan Devices on my network](/static/images/detected_local_devices.png)
 
 Checking from CLI, I'm getting IP addressess assigned to two wireless interfaces: wlan0 which is the one that comes with the Rasperry pi and wlan1 which is the external wireless dongle.
-<insert_ifconfig_pic>
-<insert_connected_to_wifi_router>
+![Two Wireless Interfaces Seen from ifconfig](/static/images/ifconfig_two_wlan_interfaces.png)
+![Two Wireless Interfaces Connected to WIFI Router](/static/images/ifconfig_two_wlan_interfaces_to_wifirouter.png)
 
-<TBD>
+Just to make sure the external wireless device works, I turned-off the built-in wlan0:
+![wlan1 Only](/static/images/only_external_wlan1_active.png)
+Then tested by connecting via ssh.
 
+It worked!
