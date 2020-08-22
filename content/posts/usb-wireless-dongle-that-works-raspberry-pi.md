@@ -1,6 +1,6 @@
 --- 
-date: 2020-08-23T10:58:44+08:00
 title: "USB Wireless Dongle that Works in Raspberry Pi"
+date: 2020-08-22T18:34:01+08:00
 tags: [wifi, raspberry-pi, wifi-dongle, linux]
 draft: false
 --- 
@@ -8,10 +8,10 @@ draft: false
 I had my first raspberry pi way back 2015 but I never get to use it. Back then, that single-board computer doesn't have a built-in wireless interface.
 Past forward 2020 and I bought a new PI on Lazada without checking on the specs...so I got a wifi dongle as well.
 
-My pi arrived first and after thoroughly reading the specs, I laughed at myself for buying something that I may never need. 
+My pi arrived first and after thoroughly reading the specs, I laughed at myself for buying something that I may never need.
 Well, I can no longer cancel the order so I nothing more I can do. It's costs PHP 299.00 including shipping.
 
-When the dongle arrived, I had no expectations. Included in the item was a little cd which I assume is the driver. 
+When the dongle arrived, I had no expectations. Included in the item was a little cd which I assume is the driver.
 ![Boxed USB Wireless Dongle Item](/static/images/usb_wireless_dongle_boxed.jpg)
 ![Close-up Look of the USB Wireless Dongle](/static/images/usb_wireless_dongle_closeup.png)
 
