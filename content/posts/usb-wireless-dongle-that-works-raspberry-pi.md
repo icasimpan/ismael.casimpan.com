@@ -1,5 +1,5 @@
 --- 
-date: 2020-08-23T17:08:13+08:00
+date: 2020-08-23T10:58:44+08:00
 title: "USB Wireless Dongle that Works in Raspberry Pi"
 tags: [wifi, raspberry-pi, wifi-dongle, linux]
 draft: false
