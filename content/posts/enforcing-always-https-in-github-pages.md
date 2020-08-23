@@ -23,4 +23,4 @@ Just tick it and the github pages always gets redirected to https.
 Wait for about 15minutes or so for the cache to be cleared by github pages. Here's the same visit via curl after cache is purged:
 ![Visit Quicktask Postfix without protocol - after enforced https ](/images/githubpage_no_enforcedhttps.png)
 
-More details in (Github's Documentation for enforced https)[https://docs.github.com/en/github/working-with-github-pages/securing-your-github-pages-site-with-https]
+More details in [Github's Documentation for enforced https](https://docs.github.com/en/github/working-with-github-pages/securing-your-github-pages-site-with-https).
