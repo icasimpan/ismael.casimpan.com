@@ -12,8 +12,8 @@ My pi arrived first and after thoroughly reading the specs, I laughed at myself 
 Well, I can no longer cancel the order so I nothing more I can do. It's costs PHP 299.00 including shipping.
 
 When the dongle arrived, I had no expectations. Included in the item was a little cd which I assume is the driver.
-![Boxed USB Wireless Dongle Item](/static/images/usb_wireless_dongle_boxed.jpg)
-![Close-up Look of the USB Wireless Dongle](/static/images/usb_wireless_dongle_closeup.png)
+![Boxed USB Wireless Dongle Item](/images/usb_wireless_dongle_boxed.jpg)
+![Close-up Look of the USB Wireless Dongle](/images/usb_wireless_dongle_closeup.png)
 
 
 I never used the CD as I don't think it would come with a Linux driver. So I plugged it in the raspberry pi and saw this:
@@ -29,14 +29,14 @@ Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
 Bus 001 Device 003: ID 148f:7601 Ralink Technology, Corp. MT7601U Wireless Adapter
 ```
 Checked from LanScan and it's detected:
-![LanScan Devices on my network](/static/images/detected_local_devices.png)
+![LanScan Devices on my network](/images/detected_local_devices.png)
 
 Checking from CLI, I'm getting IP addressess assigned to two wireless interfaces: wlan0 which is the one that comes with the Rasperry pi and wlan1 which is the external wireless dongle.
-![Two Wireless Interfaces Seen from ifconfig](/static/images/ifconfig_two_wlan_interfaces.png)
-![Two Wireless Interfaces Connected to WIFI Router](/static/images/ifconfig_two_wlan_interfaces_to_wifirouter.png)
+![Two Wireless Interfaces Seen from ifconfig](/images/ifconfig_two_wlan_interfaces.png)
+![Two Wireless Interfaces Connected to WIFI Router](/images/ifconfig_two_wlan_interfaces_to_wifirouter.png)
 
 Just to make sure the external wireless device works, I turned-off the built-in wlan0:
-![wlan1 Only](/static/images/only_external_wlan1_active.png)
+![wlan1 Only](/images/only_external_wlan1_active.png)
 Then tested by connecting via ssh.
 
 It worked!
