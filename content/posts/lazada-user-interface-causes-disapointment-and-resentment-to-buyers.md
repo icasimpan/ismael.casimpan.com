@@ -49,3 +49,4 @@ Hire a more capable usability expert.
 **Update to item review**
 
 I apologized to the seller and updated my review BUT adding only 2 stars unless Lazada would fix that user-interface issue.
+![Updated Review](/images/09_updated_review.png)
