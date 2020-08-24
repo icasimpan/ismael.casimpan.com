@@ -34,18 +34,18 @@ Check the images below as I navigate those so called "customized item option":
 ![Keyboard2 with a different price](/images/04_lazada_chooseitem_kb100.png)
 ![Keyboard and mouse with a different price](/images/05_lazada_chooseitem_kbmouse.png)
 
-*Bug or Evil Feature in Lazada*
+**Bug or Evil Feature in Lazada**
 
 I would think more of this as a bug than an "evil feature". Because while this may give Lazada an unintended profit, it also gives erodes their user's trust in their platform which endangers the long term profitability.
 
-*Unsolicited Advise to Sellers*
+**Unsolicited Advise to Sellers**
 
 Do not add multiple option to an item that would easily confuse your potential buyers. You will get bad reviews and will affect you long term profitability.
 
-*Unsolicited Advise to Lazada*
+**Unsolicited Advise to Lazada**
 
 Hire a more capable usability expert. 
 
-*Update to item review*
+**Update to item review**
 
 I apologized to the seller and updated my review BUT adding only 2 stars unless Lazada would fix that user-interface issue.
