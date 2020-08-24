@@ -36,7 +36,7 @@ Check the images below as I navigate those so called "customized item option":
 
 **Bug or Evil Feature in Lazada**
 
-I would think more of this as a bug than an "evil feature". Because while this may give Lazada an unintended profit, it also gives erodes their user's trust in their platform which endangers the long term profitability.
+I would think more of this as a bug than an "evil feature". Because while this may give Lazada an unintended profit, it also erodes their user's trust in the platform which endangers the long term profitability if not fixed.
 
 **Unsolicited Advise to Sellers**
 
