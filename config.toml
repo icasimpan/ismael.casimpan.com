@@ -12,6 +12,15 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "icasimpan"
+googleAnalytics = "UA-6885542-9"
+
+features = [
+  "analytics",
+  "favicon",
+  "pagination",
+  "single-column",
+  "syntax-highlighting"
+]
 
 [params]
     author = "Ismael Angelo A. Casimpan Jr."
