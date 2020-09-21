@@ -5,26 +5,26 @@ tags: [lazada, ux-failure, online-selling-bad-experience]
 draft: false
 --- 
 
-First week of August, I bought a raspberry pi in Lazada and since it needs a keyboard and mouse and I don't have one, I searched and bought as well. I intentionally selected one that's unbranded and cheap since this is for a hobby only, I can always upgrade later if there's a need.
+First week of August, I bought a Raspberry Pi in Lazada. Since it needs a keyboard and mouse and I don’t have one, I searched and bought as well. I selected one that’s unbranded and cheap since this is only for a hobby. I can always upgrade later if needed.
 
 Below was the item I thought I was buying and getting:
 ![The item shown to me in Lazada which I thought was a mouse and keyboard set ](/images/01_lazada_chooseitem_mouse_only.png)
 
-Fast forward to delivery day of the supposed keyboard and mouse, I only received one item: "mouse only".
+Fast forward to delivery day of the supposed keyboard and mouse, I only received one item: “mouse only”.
 ![Item delivered was mouse only, lacking keyboard I expected](/images/07_delivered_item.jpg)
 
-Talked to the seller and I was told my order was just for a mouse. An image was shown to me with Chinese characters:
+Talked to the seller and got told that my order was for a mouse only. Seller showed me the item's picture with Chinese characters:
 ![Seller's point of view on what I ordered](/images/06_lazada_chooseitem_seller-pov.png)
 
-I asked that the keyboard be sent to me as it seems to be missing. However, seller told me to just send back the item but shipping fee will not be returned. Given that the item only costs around PHP200 + shipping of PHP 99.00 to my location that would be too much effort without even knowing if I will get a refund. So in short, I just decided to leave a review which I thought was fair enough.
+I asked the seller to send the keyboard as it seems to be missing. Seller told me to return back the item to them instead. They will send a refund except for the shipping fee. Given that the item only costs around PHP200 + shipping of PHP 99.00, that would be too much effort with less benefit. So in short, I decided to leave a review instead which I thought was fair enough.
 
 ![Initial review which was fair enough](/images/08_initial_review.png)
 
-I also sent Lazada messages via support center and messaged them directly through twitter.
+I also informed Lazada messages via support center. Direct messaged them as well through Twitter.
 
-Few days after, as I was reviewing my orders, I did notice that the price changes whenever I clicked the small pictures to the bottom right of the item.
+Few days after, I noticed that price changes whenever I click the small pictures to the bottom right of the item.
 
-However, it's still an issue: Buyers will NEVER notice it. Here's what I think all buyers had in mind when checking items such as this:
+It’s still an issue though: Buyers will NEVER notice it. Here’s what all buyers had in mind when checking items such as this:
 
 ![Here's my mind's attention after giving it further thought](/images/02_lazada_chooseitem_mouse_only-labeled.png)
 
@@ -36,11 +36,11 @@ Check the images below as I navigate those so called "customized item option":
 
 **Bug or Evil Feature in Lazada**
 
-I would think more of this as a bug than an "evil feature". Because while this may give Lazada an unintended profit, it also erodes their user's trust in the platform which endangers the long term profitability if not fixed.
+I  think this is more of a bug than an “evil feature”.  This may give Lazada an unintended profit but will also erode their user’s trust.
 
 **Unsolicited Advise to Sellers**
 
-Do not add multiple option to an item that would easily confuse your potential buyers. You will get bad reviews and will affect you long term profitability.
+Do not add multiple option to an item that would confuse your potential buyers. You will get bad reviews and will affect you long term profitability.
 
 **Unsolicited Advise to Lazada**
 
@@ -48,5 +48,5 @@ Hire a more capable usability expert.
 
 **Update to item review**
 
-I apologized to the seller and updated my review BUT adding only 2 stars unless Lazada would fix that user-interface issue.
+I apologized to the seller, updated my review BUT adding only 2 stars... unless Lazada fixes that user-interface issue.
 ![Updated Review](/images/09_updated_review.png)
