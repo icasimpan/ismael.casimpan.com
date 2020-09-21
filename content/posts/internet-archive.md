@@ -32,6 +32,6 @@ Your imagination is the limit. Some more use cases:
 
 * **Checking your competitor from another angle.** Look at previous versions of their website. It could give you details no longer seen in current website.
 
-* **Old picture in a blog post in your employer's site** Sometimes, due to site migrations, some details are overlooked like a picture in a blog post. Look it up in archive.org and most often, it's there.
+* **Old picture in a blog post in your employer's site.** Sometimes, due to site migrations, some details are overlooked like a picture in a blog post. Look it up in archive.org and most often, it's there.
 
 Happy Hunting!
