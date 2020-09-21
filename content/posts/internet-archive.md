@@ -10,17 +10,16 @@ Serves me a lot of times when references for difficult topics suffered some form
 
 **Simple to Use**
 
-Just input the URL or domain just like what you'll do in Google or any search engine. Select what year and the circled
-dates in the calendar would point you to the archived page.
+Input the URL or domain like what you'll do in Google or any search engine. Select what year and the circled dates in the calendar would point you to the archived page.
 
 **Example**
 
-Say for instance my former employer, Goabroad.com. I was there [2005 to early 2010 and I left traces in the robots.txt](https://web.archive.org/web/20070202013415/http://www.goabroad.com/robots.txt). I was then primarily doing SEO though my favorite task was doing sysadmin for the company most of the time.
+Say for instance my former employer, Goabroad.com. I was there [2005 to early 2010 and I left traces in the robots.txt](https://web.archive.org/web/20070202013415/http://www.goabroad.com/robots.txt). I was then doing SEO though my favorite task was doing sysadmin for the company most of the time.
 
-Let's search for a time period Jan 1, 2006:
+Let's search for Jan 1, 2006:
 ![search goabroad.com in archive.org and select archive in Jan 1, 2006](/images/0_archive.org.png)
 
-If you'll observe close enough, you'll see what web language it used that time: yes, coldfusion.
+If you'll observe close enough, you'll see what web language it used that time: yes, ColdFusion.
 ![Hover on the Study Abroad link at the top](/images/1_archive.org.png)
 
 Stretch back a little further and you'll see the earliest version of the site.
@@ -31,8 +30,8 @@ Stretch back a little further and you'll see the earliest version of the site.
 
 Your imagination is the limit. Some more use cases:
 
-* Checking your company's competitor from another angle - look at previous versions of their website as sometimes it's no longer shown in the present like what technologies they use, the number of people employed etc. It will give you a starting point to look further.
+* **Checking your competitor from another angle. Look at previous versions of their website.** It could give you details no longer seen in current website.
 
-* Old picture in a blog post in your employer's site - sometimes, due to migrations and such, some details are overlooked like a picture in one blog post. Look it up in archive.org and most often than not, it's there.
+* **Old picture in a blog post in your employer's site** Sometimes, due to site migrations, some details are overlooked like a picture in a blog post. Look it up in archive.org and most often, it's there.
 
 Happy Hunting!
