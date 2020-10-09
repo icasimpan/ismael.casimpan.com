@@ -15,7 +15,7 @@ For those curious "if this is something that would make them money"...I'd say it
 
 Yes, it is zero value for now. But the hardworking PhDs at Stanford are behind this plus the exponentially growing community will surely push the value upward in the not so distant future.
 
-[![Watch the Video Introduction to Pi Network](/images/join-pi-network__fix375.png)](https://www.youtube.com/watch?v=MsOaC61cR3U)
+[![Watch the Video Introduction to Pi Network](https://img.youtube.com/vi/MsOaC61cR3U/0.jpg)](https://www.youtube.com/watch?v=MsOaC61cR3U)
 
 For sure, Pi Network will succeed in its mission of being a currency to exchange goods but it's not the only one who will. Others are already there, BTC for one.
 
