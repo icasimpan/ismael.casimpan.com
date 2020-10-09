@@ -5,6 +5,8 @@ tags: [cryptocurrency, pi-network, decentralized-finance]
 draft: false
 --- 
 
+![Join Pi Network using invite code fix375](/images/join-pi-network__fix375.png)
+
 A few days ago from this blog post, I got invited by a friend to join the [Pi Network](https://minepi.com/fix375). I've been a cryptocurrency observer for quite some time and I have seen things come and go. 
 I was a bit skeptical but at the same time curious of what it is. I activated [Cloudflare's FREE WARP+](https://1.1.1.1/) on my phone so I could be sure this is not something that's hideous. 
 So far, EVERYTHING checks out, so I [joined](https://minepi.com/fix375).
