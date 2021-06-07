@@ -14,3 +14,6 @@ draft: false
 * [Coin Desk] (https://www.coindesk.com/)
 * [Coin Telegraph] (https://www.cointelegraph.com/)
 * [Decrypt] (https://decrypt.co/)
+
+* Practical Frameworks
+* [HTMLy - flat-file CMS that allows you to create a fast, secure, and powerful website or blog in seconds] (https://www.htmly.com)
