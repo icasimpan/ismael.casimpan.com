@@ -7,4 +7,4 @@ draft: false
 
 # shcf - Shell Coding Simplified!
 
-An open source Shell SDK that let's you code big projects but without hindering how you code. See [https://ismael.casimpan.com/shcf] (https://ismael.casimpan.com/shcf)
+An open source Shell SDK that let's you code big projects but without hindering how you code. See (https://ismael.casimpan.com/shcf) [https://ismael.casimpan.com/shcf]
