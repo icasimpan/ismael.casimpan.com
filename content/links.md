@@ -5,15 +5,13 @@ tags: [links, sites]
 draft: false
 ---
 
-# Interesting Sites
-
-## Docker
+# Docker
 * [LinuxServer] (https://www.linuxserver.io/) - community maintained OS
 
-## Cryptocurrencies
+# Cryptocurrencies
 * [Coin Desk] (https://www.coindesk.com/)
 * [Coin Telegraph] (https://www.cointelegraph.com/)
 * [Decrypt] (https://decrypt.co/)
 
-## Practical Frameworks
+# Practical Frameworks
 * [HTMLy] (https://www.htmly.com) - flat-file CMS that allows you to create a fast, secure, and powerful website or blog in seconnds.
