@@ -78,6 +78,10 @@ features = [
     weight = 3
     url  = "/quicktasks/"
 [[menu.main]]
-    name = "About"
+    name = "Links"
     weight = 4
+    url  = "/links/"
+[[menu.main]]
+    name = "About"
+    weight = 5
     url = "/about/"
