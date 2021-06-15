@@ -6,12 +6,12 @@ draft: false
 ---
 
 # Docker
-* [LinuxServer] (https://www.linuxserver.io/) - community maintained OS
+* [LinuxServer](https://www.linuxserver.io/) - community maintained OS
 
 # Cryptocurrencies
-* [Coin Desk] (https://www.coindesk.com/)
-* [Coin Telegraph] (https://www.cointelegraph.com/)
-* [Decrypt] (https://decrypt.co/)
+* [Coin Desk](https://www.coindesk.com/)
+* [Coin Telegraph](https://www.cointelegraph.com/)
+* [Decrypt](https://decrypt.co/)
 
 # Practical Frameworks
-* [HTMLy] (https://www.htmly.com) - flat-file CMS that allows you to create a fast, secure, and powerful website or blog in seconnds.
+* [HTMLy](https://www.htmly.com) - flat-file CMS that allows you to create a fast, secure, and powerful website or blog in seconnds.
