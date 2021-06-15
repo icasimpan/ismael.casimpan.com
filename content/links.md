@@ -16,5 +16,10 @@ draft: false
 # Security
 * [HaveIBeenPawned](https://haveibeenpwned.com/) - FREE site to check if your email or phone is in a breach.
 
+# Basic Sysadmin Tools
+* [DNSChecker](https://dnschecker.org/) - checking DNS records
+* [Internet Archive](https://archive.org/) - Cross-check how a site looks at some point in the past. I covered it in my [prior blog post](https://ismael.casimpan.com/posts/internet-archive/)
+* [WhoisXMLAPI](https://whois-history.whoisxmlapi.com/) - FREE version is good enough to indicate history for a domain. Cross-check with the Internet Archive.
+
 # Practical Frameworks
 * [HTMLy](https://www.htmly.com) - flat-file CMS that allows you to create a fast, secure, and powerful website or blog in seconnds.
