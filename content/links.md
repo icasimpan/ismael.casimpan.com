@@ -6,7 +6,7 @@ draft: false
 ---
 
 # Docker
-* [LinuxServer](https://www.linuxserver.io/) - community maintained OS
+* [LinuxServer](https://www.linuxserver.io/) - community maintained docker images
 
 # Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/)
