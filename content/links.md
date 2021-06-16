@@ -17,6 +17,7 @@ draft: false
 * [Celsius Network](https://celsius.network) - competitor of Nexo, will also let you earn interest paid weekly
 * [StakeCube](https://stakecube.net) - best for earning highest BTC interest at 7% APY, paid daily.
 * [CoinGecko](https://coingecko.com) - best crypto historical price aggregator
+* [Panthera Capital Blockchain Letters](https://panteracapital.com/blockchain-letter/) - Panthera Capital newsletter
 
 ## IT Security
 * [Hacker Combat](https://www.hackercombat.com)
