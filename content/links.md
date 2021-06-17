@@ -39,6 +39,7 @@ draft: false
 * [Docksal](https://docksal.io/) - best tool for local web development without learning the nitty gritty docker and docker-compose things
 * [WhoCanUse](https://whocanuse.com/) - Who can use this color combination?
 * [Provus](https://promet.github.io/provus/) - Promet's opensource framework for Drupal 8/9. I implemented the current automatic drupal core upgrade functionality.
+* [Photopea](https://www.photopea.com/) - FREE Photoshop-like tool on the web
 
 
 # Non-IT
