@@ -6,6 +6,10 @@ draft: false
 ---
 
 # IT / Computing
+
+## Quick Learning
+* [Learn X in Y Minutes](https://learnxinyminutes.com/) - any programming language in a few minutes
+
 ## Docker
 * [LinuxServer](https://www.linuxserver.io/) - community maintained docker images
 
