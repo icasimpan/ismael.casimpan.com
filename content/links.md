@@ -26,6 +26,7 @@ draft: false
 ## IT Security
 * [Hacker Combat](https://www.hackercombat.com)
 * [HaveIBeenPawned](https://haveibeenpwned.com/) - FREE site to check if your email or phone is in a breach.
+* [Reverse Tabnabbing](https://techblog.topdesk.com/security/developers-need-know-reverse-tabnabbing/) - links exploit prevention
 
 ## Basic Sysadmin Tools
 * [DNSChecker](https://dnschecker.org/) - checking DNS records
