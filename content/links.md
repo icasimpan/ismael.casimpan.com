@@ -10,8 +10,9 @@ draft: false
 ## Quick Learning
 * [Learn X in Y Minutes](https://learnxinyminutes.com/) - any programming language in a few minutes
 
-## Docker
+## Docker / Kubernetes
 * [LinuxServer](https://www.linuxserver.io/) - community maintained docker images
+* [The New Stack](https://thenewstack.io)
 
 ## Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/) - crypto news
@@ -27,6 +28,11 @@ draft: false
 * [Hacker Combat](https://www.hackercombat.com)
 * [HaveIBeenPawned](https://haveibeenpwned.com/) - FREE site to check if your email or phone is in a breach.
 * [Reverse Tabnabbing](https://techblog.topdesk.com/security/developers-need-know-reverse-tabnabbing/) - links exploit prevention
+
+## Learn Python
+* [PyNative](https://pynative.com/python/)
+* [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
+
 
 ## Basic Sysadmin Tools
 * [DNSChecker](https://dnschecker.org/) - checking DNS records
