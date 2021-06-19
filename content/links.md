@@ -33,6 +33,10 @@ draft: false
 * [PyNative](https://pynative.com/python/)
 * [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
 
+## Learn Go
+* [Go By Example](https://gobyexample.com/)
+* [Learn Go in Y Minutes](https://learnxinyminutes.com/docs/go/)
+
 
 ## Basic Sysadmin Tools
 * [DNSChecker](https://dnschecker.org/) - checking DNS records
