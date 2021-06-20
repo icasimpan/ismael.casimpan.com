@@ -47,6 +47,8 @@ draft: false
 * [1.1.1.1 by Cloudflare](https://1.1.1.1/) - FREE Public DNS by cloudflare
 * [Google Public DNS](https://developers.google.com/speed/public-dns/docs/using)
 * [Data Center Knowledge](https://www.datacenterknowledge.com)
+### Linux-specific
+* [Rocky Linux](https://rockylinux.org/) - de-facto successor of CentOS
 ### Windows-specific
 * [MSYS2](https://www.msys2.org/) - When you're in Windows that doesn't support WSL and you want a better Unix-like CLI. This is better than [Cygwin](https://www.cygwin.com/).
 * [GreenShot](https://getgreenshot.org/downloads/) - open-source screenshot solution for Windows
