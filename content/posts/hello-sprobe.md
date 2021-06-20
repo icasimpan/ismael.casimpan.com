@@ -1,5 +1,5 @@
 --- 
-date: 2021-06-20T17:08:13+08:00
+date: 2021-06-20T14:40:13+08:00
 title: "Hello Sprobe"
 tags: [sprobe, windows10, wsl]
 draft: false
