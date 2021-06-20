@@ -39,14 +39,17 @@ draft: false
 
 
 ## Basic Sysadmin Tools
+### OS-agnostic
 * [DNSChecker](https://dnschecker.org/) - checking DNS records
 * [Internet Archive](https://archive.org/) - Cross-check how a [site looks at some point in the past](https://ismael.casimpan.com/posts/internet-archive/).
 * [WhoisXMLAPI](https://whois-history.whoisxmlapi.com/) - FREE version good enough hints for domain history. Cross-check with the Internet Archive.
 * [SSLLabs](https://www.ssllabs.com/ssltest/) - FREE checker on properly setup https cert for a site.
 * [1.1.1.1 by Cloudflare](https://1.1.1.1/) - FREE Public DNS by cloudflare
 * [Google Public DNS](https://developers.google.com/speed/public-dns/docs/using)
-* [MSYS2](https://www.msys2.org/) - When you're in Windows and you want a better Unix-like CLI. This is better than [Cygwin](https://www.cygwin.com/).
 * [Data Center Knowledge](https://www.datacenterknowledge.com)
+### Windows-specific
+* [MSYS2](https://www.msys2.org/) - When you're in Windows that doesn't support WSL and you want a better Unix-like CLI. This is better than [Cygwin](https://www.cygwin.com/).
+* [GreenShot](https://getgreenshot.org/downloads/) - open-source screenshot solution for Windows
 
 ## Practical Frameworks
 * [HTMLy](https://www.htmly.com) - flat-file CMS that allows you to create a fast, secure, and powerful website or blog in seconnds.
