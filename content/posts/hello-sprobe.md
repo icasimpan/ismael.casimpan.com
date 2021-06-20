@@ -6,7 +6,7 @@ draft: false
 --- 
 
 
-June 21, 2021 is my official onboarding with Sprobe, Inc. 
+June 21, 2021 is my official onboarding with [Sprobe, Inc](https://sprobe.com/).
 As per my official designation, I'll be working in a project that utilizes bash, awk and postgresql. 
 Of course, it should be more than that but I can't tell you much at this point.
 
