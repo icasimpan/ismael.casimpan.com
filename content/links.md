@@ -62,3 +62,6 @@ draft: false
 
 ## Amazing things
 * [Atlas Obscura](https://www.atlasobscura.com) - definitive guide to the world's hidden wonders.
+
+## Effective Communication
+* [Hemingway App](https://hemingwayapp.com/) - makes your writing bold and clear.
