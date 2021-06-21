@@ -47,6 +47,8 @@ draft: false
 * [1.1.1.1 by Cloudflare](https://1.1.1.1/) - FREE Public DNS by cloudflare
 * [Google Public DNS](https://developers.google.com/speed/public-dns/docs/using)
 * [Data Center Knowledge](https://www.datacenterknowledge.com)
+* [DBAN](https://dban.org/) - Free Open-Source Data Wiping Software for Personal Use
+
 ### Linux-specific
 * [Rocky Linux](https://rockylinux.org/) - de-facto successor of CentOS
 ### Windows-specific
