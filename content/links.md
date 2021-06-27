@@ -72,3 +72,6 @@ draft: false
 
 ## Effective Communication
 * [Hemingway App](https://hemingwayapp.com/) - makes your writing bold and clear.
+
+## Learning Japanese
+* [Jisho](https://www.jisho.org/) - English to Japanese dictionary
