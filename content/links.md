@@ -76,3 +76,6 @@ draft: false
 ## Learning Japanese
 * [Jisho](https://jisho.org/) - English to Japanese dictionary
 * [Duolingo](https://www.duolingo.com/) - Learn any language. Very good for beginners, using this to learn Japanese.
+* [JLPT N5 Resources by Tanos.co.uk](http://www.tanos.co.uk/jlpt/jlpt5/)
+* [Katakana Charts](http://www.tokyowithkids.com/fyi/katakana_chart.html)
+* [Hiragana Charts](http://www.tokyowithkids.com/fyi/hiragana_chart.html)
