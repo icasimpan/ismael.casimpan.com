@@ -74,4 +74,5 @@ draft: false
 * [Hemingway App](https://hemingwayapp.com/) - makes your writing bold and clear.
 
 ## Learning Japanese
-* [Jisho](https://www.jisho.org/) - English to Japanese dictionary
+* [Jisho](https://jisho.org/) - English to Japanese dictionary
+* [Duolingo](https://www.duolingo.com/) - Learn any language. Very good for beginners, using this to learn Japanese.
