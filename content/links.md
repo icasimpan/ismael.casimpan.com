@@ -82,3 +82,5 @@ draft: false
 * [Hiragana Charts](http://www.tokyowithkids.com/fyi/hiragana_chart.html)
 * [Hiragana Mnemonic Chart](https://gallery.mailchimp.com/b7f2114d74e3cac96344f797c/_compresseds/26fd897f-5a1b-43ea-b06f-c829a6e67106.jpg) - c/o Tofugu.com
 * [Katakana Mnemonic Chart](https://gallery.mailchimp.com/b7f2114d74e3cac96344f797c/_compresseds/19426869-2d96-4691-a1ea-0dd08b14c53f.jpg) - c/o Tofugu.com
+* [PunipuniJapan](https://www.punipunijapan.com/) - kindergarten-like learning of Japanese. Printable trace guide via FREE subscription to their newsletter.
+* [ToFuGu](https://www.tofugu.com/)
