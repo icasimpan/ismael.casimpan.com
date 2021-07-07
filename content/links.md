@@ -64,6 +64,13 @@ draft: false
 * [Provus](https://promet.github.io/provus/) - Promet's opensource framework for Drupal 8/9. I implemented the current automatic drupal core upgrade functionality.
 * [Photopea](https://www.photopea.com/) - FREE Photoshop-like tool on the web
 
+## Bash scripting
+* [LinuxCommand.org](https://linuxcommand.org/) - best concise tutorial to shell scripting
+* [shellscript.sh](https://www.shellscript.sh/tips/case/index.html) - useful tips are here
+* [shellcheck](https://www.shellcheck.net/) - shell linter and checker
+* [shellspec](https://github.com/shellspec/shellspec) - writing shell script in TDD/BDD for a robust scripting. Check "examples"
+* [shellfmt](https://github.com/mvdan/sh) - shell script formatter to make it readable. Has other functions but better delegate to shellspec and shellcheck
+
 
 # Non-IT
 
