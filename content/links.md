@@ -70,6 +70,8 @@ draft: false
 * [shellcheck](https://www.shellcheck.net/) - shell linter and checker
 * [shellspec](https://github.com/shellspec/shellspec) - writing shell script in TDD/BDD for a robust scripting. Check "examples"
 * [shellfmt](https://github.com/mvdan/sh) - shell script formatter to make it readable. Has other functions but better delegate to shellspec and shellcheck
+* [shell-tips.com](https://www.shell-tips.com/bash)
+* [linuxhandbook.com/tag/bash-beginner](https://linuxhandbook.com/tag/bash-beginner)
 
 
 # Non-IT
