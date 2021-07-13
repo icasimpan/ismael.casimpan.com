@@ -72,6 +72,7 @@ draft: false
 * [shellfmt](https://github.com/mvdan/sh) - shell script formatter to make it readable. Has other functions but better delegate to shellspec and shellcheck
 * [shell-tips.com](https://www.shell-tips.com/bash)
 * [linuxhandbook.com/tag/bash-beginner](https://linuxhandbook.com/tag/bash-beginner)
+* [sodocumentation.net/bash](https://sodocumentation.net/bash)
 
 
 # Non-IT
