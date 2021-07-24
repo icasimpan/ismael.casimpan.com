@@ -5,7 +5,7 @@ tags: [links, sites]
 draft: false
 ---
 
-# IT / Computing
+# IT / Computing / Electronics
 
 ## Quick Learning
 * [Learn X in Y Minutes](https://learnxinyminutes.com/) - any programming language in a few minutes
@@ -74,6 +74,8 @@ draft: false
 * [linuxhandbook.com/tag/bash-beginner](https://linuxhandbook.com/tag/bash-beginner)
 * [sodocumentation.net/bash](https://sodocumentation.net/bash)
 
+## Electronics
+* [Jemery Fielding Youtube](https://www.youtube.com/channel/UC_SLthyNX_ivd-dmsFgmJVg)
 
 # Non-IT
 
