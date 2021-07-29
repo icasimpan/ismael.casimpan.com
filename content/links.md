@@ -76,6 +76,10 @@ draft: false
 
 ## Electronics
 * [Jemery Fielding Youtube](https://www.youtube.com/channel/UC_SLthyNX_ivd-dmsFgmJVg)
+* [BitStoc](https://www.bitstoc.com/) - Cebu-based electronics shop that has Arduino and Raspberry Pi
+* [CircuitRocks](https://circuit.rocks/) - PH-based electronics shop and also sells in Shopee and Lazada
+* [Plusivo.ph](https://www.plusivo.ph/) - Camarines, PH based electronics shop. Also sells in Shopee and Lazada
+* [MakerLab](https://www.makerlab-electronics.com/) - PH-based electronics shop. Also sells in Shopee and Lazada
 
 # Non-IT
 
