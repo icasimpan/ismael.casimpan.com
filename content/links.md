@@ -80,7 +80,8 @@ draft: false
 * [CircuitRocks](https://circuit.rocks/) - PH-based electronics shop and also sells in Shopee and Lazada
 * [Plusivo.ph](https://www.plusivo.ph/) - Camarines, PH based electronics shop. Also sells in Shopee and Lazada
 * [MakerLab](https://www.makerlab-electronics.com/) - PH-based electronics shop. Also sells in Shopee and Lazada
-* [GadgetMender - Youtube] - some rought tutorial on repairing phones.
+* [LayadCircuits](https://shopee.ph/layadcircuits) - Pinoy seller (Benguet based). Test buy ongoing.
+* [CreateLabz](https://shopee.ph/createlabz) - Pinoy seller (Davao-based) but haven't tested yet but seems good
 
 # Non-IT
 
