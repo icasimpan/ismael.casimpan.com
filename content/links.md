@@ -36,6 +36,7 @@ draft: false
 ## Learn Go
 * [Go By Example](https://gobyexample.com/)
 * [Learn Go in Y Minutes](https://learnxinyminutes.com/docs/go/)
+* Go Web by Examples (https://gowebexamples.com/) - simple web development examples using golang
 
 
 ## Basic Sysadmin Tools
