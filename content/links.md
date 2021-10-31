@@ -37,6 +37,7 @@ draft: false
 * [Go By Example](https://gobyexample.com/)
 * [Learn Go in Y Minutes](https://learnxinyminutes.com/docs/go/)
 * [Go Web by Example](https://gowebexamples.com/) - simple web development examples using golang
+* [Gophercises](https://gophercises.com/)
 
 
 ## Basic Sysadmin Tools
