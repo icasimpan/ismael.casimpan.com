@@ -39,6 +39,8 @@ draft: false
 * [Go Web by Example](https://gowebexamples.com/) - simple web development examples using golang
 * [Gophercises](https://gophercises.com/)
 * [Golang Weekly](https://golangweekly.com)
+* [Go Collectives on StackOverflow](https://stackoverflow.com/collectives/go)
+* [GoLang Mobile](https://github.com/golang/go/wiki/Mobile)
 
 
 ## Basic Sysadmin Tools
@@ -66,6 +68,8 @@ draft: false
 * [WhoCanUse](https://whocanuse.com/) - Who can use this color combination?
 * [Provus](https://promet.github.io/provus/) - Promet's opensource framework for Drupal 8/9. I implemented the current automatic drupal core upgrade functionality.
 * [Photopea](https://www.photopea.com/) - FREE Photoshop-like tool on the web
+* [CanIUse](https://caniuse.com/)
+* [ExploringJS](https://exploringjs.com/)
 
 ## Bash scripting
 * [LinuxCommand.org](https://linuxcommand.org/) - best concise tutorial to shell scripting
