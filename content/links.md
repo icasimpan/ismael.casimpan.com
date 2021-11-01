@@ -70,6 +70,7 @@ draft: false
 * [Photopea](https://www.photopea.com/) - FREE Photoshop-like tool on the web
 * [CanIUse](https://caniuse.com/)
 * [ExploringJS](https://exploringjs.com/)
+* [JavaScript.info](https://javascript.info/) - Learn Modern Javascript, easy to understand tutorial.
 
 ## Bash scripting
 * [LinuxCommand.org](https://linuxcommand.org/) - best concise tutorial to shell scripting
