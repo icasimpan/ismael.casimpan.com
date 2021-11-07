@@ -43,6 +43,7 @@ draft: false
 * [GoLang Mobile](https://github.com/golang/go/wiki/Mobile)
 * [Go101](https://go101.org/) - best tutorial site so far, and offline mode is possible too. Just run 'git clone https://github.com/go101/go101.git; go run .'
 * [GoLang By Example](https://golangbyexample.com/) - confusingly similar to GoByExample but with more examples.
+* [GoLangBot Tutorial Series](https://golangbot.com/learn-golang-series/)
 
 
 ## Basic Sysadmin Tools
