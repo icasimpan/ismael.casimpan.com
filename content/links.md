@@ -19,7 +19,7 @@ draft: false
 * [Coin Telegraph](https://www.cointelegraph.com/) - crypto news
 * [Decrypt](https://decrypt.co/) - crypto news
 * [Nexo.io](https://platform.nexo.io) - earn interest with your crypto here, paid daily
-* [Celsius Network](https://celsius.network) - competitor of Nexo, will also let you earn interest paid weekly
+* [Celsius Network](https://app.celsius.network/) - competitor of Nexo, will also let you earn interest paid weekly
 * [StakeCube](https://stakecube.net) - best for earning highest BTC interest at 7% APY, paid daily.
 * [CoinGecko](https://coingecko.com) - best crypto historical price aggregator
 * [Panthera Capital Blockchain Letters](https://panteracapital.com/blockchain-letter/) - Panthera Capital newsletter
@@ -34,6 +34,7 @@ draft: false
 * [Nexo - processing time](https://support.nexo.io/hc/en-us/articles/360010650140-Processing-time-of-cryptocurrency-deposits-blockchain-confirmations-)
 * [Nexo - time to interest crediting](https://support.nexo.io/hc/en-us/articles/360014529240-Why-did-I-not-receive-interest-on-my-savings-)
 * [Celsius - Promo Codes](https://allaboutcelsius.com/active-celsius-promo-codes/)
+* [Celsius - Crypto Swap (BETA)](https://celsius.network/swap-crypto) - won't allow swap of loan proceeds unlike Nexo
 
 ## IT Security
 * [Hacker Combat](https://www.hackercombat.com)
