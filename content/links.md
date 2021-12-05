@@ -23,6 +23,16 @@ draft: false
 * [StakeCube](https://stakecube.net) - best for earning highest BTC interest at 7% APY, paid daily.
 * [CoinGecko](https://coingecko.com) - best crypto historical price aggregator
 * [Panthera Capital Blockchain Letters](https://panteracapital.com/blockchain-letter/) - Panthera Capital newsletter
+* [Viewbase Funding Rate](https://www.viewbase.com/funding)
+
+### Favorite Crypto Platforms important links
+* [Nexo - Minimum cpryto to earn interest](https://support.nexo.io/hc/en-us/articles/360014748059-Minimum-amount-required-to-start-earning-high-yielding-up-to-12-APY-interest-on-your-crypto)
+* [Nexo - Minimum crypto to start fixed term](https://support.nexo.io/hc/en-us/articles/4407067832850-Minimum-amount-required-to-create-a-Fixed-Term)
+* [Nexo - crypto LTV](https://support.nexo.io/hc/en-us/articles/360008240893-What-Loan-to-Value-LTV-can-I-get-on-my-assets-)
+* [Nexo - Loyalty Programs](https://support.nexo.io/hc/en-us/articles/360017445559-Nexo-Loyalty-Program-Explained)
+* [Nexo - processing time](https://support.nexo.io/hc/en-us/articles/360010650140-Processing-time-of-cryptocurrency-deposits-blockchain-confirmations-)
+* [Nexo - time to interest crediting](https://support.nexo.io/hc/en-us/articles/360014529240-Why-did-I-not-receive-interest-on-my-savings-)
+* [Celsius - Promo Codes](https://allaboutcelsius.com/active-celsius-promo-codes/)
 
 ## IT Security
 * [Hacker Combat](https://www.hackercombat.com)
