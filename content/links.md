@@ -24,6 +24,7 @@ draft: false
 * [CoinGecko](https://coingecko.com) - best crypto historical price aggregator
 * [Panthera Capital Blockchain Letters](https://panteracapital.com/blockchain-letter/) - Panthera Capital newsletter
 * [Viewbase Funding Rate](https://www.viewbase.com/funding)
+* [Defi Llama](https://defillama.com/chains)
 
 ### Favorite Crypto Platforms important links
 * [Nexo - Minimum cpryto to earn interest](https://support.nexo.io/hc/en-us/articles/360014748059-Minimum-amount-required-to-start-earning-high-yielding-up-to-12-APY-interest-on-your-crypto)
