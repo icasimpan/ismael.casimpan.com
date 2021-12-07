@@ -37,8 +37,7 @@ draft: false
 * [Celsius - Crypto Swap (BETA)](https://celsius.network/swap-crypto) - won't allow swap of loan proceeds unlike Nexo
 
 ### Personal Crypto Charts (restricted)
-* [BTC Fear and Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
-
+* >>> [BTC Fear and Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
 * [ETH/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3AETHUSDT)
 * [BTC/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3ABTCUSDT)
 * [NEXO/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=HUOBI%3ANEXOUSDT)
@@ -60,6 +59,7 @@ draft: false
 * [ENJ/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3AENJUSDT)
 * [VID/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=KUCOIN%3AVIDUSDT)
 * [HOT/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3AHOTUSDT)
+* [LUNA/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3ALUNAUSDT)
 
 
 ## IT Security
