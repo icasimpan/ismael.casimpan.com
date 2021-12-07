@@ -25,6 +25,7 @@ draft: false
 * [Panthera Capital Blockchain Letters](https://panteracapital.com/blockchain-letter/) - Panthera Capital newsletter
 * [Viewbase Funding Rate](https://www.viewbase.com/funding)
 * [Defi Llama](https://defillama.com/chains)
+* [Staking Theta](https://beincrypto.com/learn/how-to-stake-theta/)
 
 ### Favorite Crypto Platforms important links
 * [Nexo - Minimum cpryto to earn interest](https://support.nexo.io/hc/en-us/articles/360014748059-Minimum-amount-required-to-start-earning-high-yielding-up-to-12-APY-interest-on-your-crypto)
@@ -35,6 +36,7 @@ draft: false
 * [Nexo - time to interest crediting](https://support.nexo.io/hc/en-us/articles/360014529240-Why-did-I-not-receive-interest-on-my-savings-)
 * [Celsius - Promo Codes](https://allaboutcelsius.com/active-celsius-promo-codes/)
 * [Celsius - Crypto Swap (BETA)](https://celsius.network/swap-crypto) - won't allow swap of loan proceeds unlike Nexo
+
 
 ### Personal Crypto Charts (restricted)
 * >>> [BTC Fear and Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
