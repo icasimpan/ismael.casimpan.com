@@ -36,6 +36,30 @@ draft: false
 * [Celsius - Promo Codes](https://allaboutcelsius.com/active-celsius-promo-codes/)
 * [Celsius - Crypto Swap (BETA)](https://celsius.network/swap-crypto) - won't allow swap of loan proceeds unlike Nexo
 
+### Personal Crypto Charts (restricted)
+* [ETH/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3AETHUSDT)
+* [BTC/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3ABTCUSDT)
+* [NEXO/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=HUOBI%3ANEXOUSDT)
+* [XLM/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3AXLMUSDT)
+* [LINK/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=KRAKEN%3ALINKUSDT)
+* [SOL/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3ASOLUSDT)
+* [AVAX/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3AAVAXUSDT)
+* [MATIC/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3AMATICUSDT)
+* [ADA/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=KRAKEN%3AADAUSDT)
+* [DOT/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3ADOTUSDT)
+* [BCH/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=KRAKEN%3ABCHUSDT)
+* [LTC/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=KRAKEN%3ALTCUSDT)
+* [DASH/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3ADASHUSDT)
+* [VET/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3AVETUSDT)
+* [ALGO/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=HUOBI%3AALGOUSDT)
+* [ZEC/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=KUCOIN%3AZECUSDT)
+* [ZEN/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=KUCOIN%3AZECUSDT)
+* [THETA/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3ATHETAUSDT)
+* [ENJ/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3AENJUSDT)
+* [VID/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=KUCOIN%3AVIDUSDT)
+* [HOT/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=KUCOIN%3AVIDUSDT)
+
+
 ## IT Security
 * [Hacker Combat](https://www.hackercombat.com)
 * [HaveIBeenPawned](https://haveibeenpwned.com/) - FREE site to check if your email or phone is in a breach.
