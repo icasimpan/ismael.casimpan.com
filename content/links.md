@@ -154,3 +154,4 @@ draft: false
 * [PunipuniJapan](https://www.punipunijapan.com/) - kindergarten-like learning of Japanese. Printable trace guide via FREE subscription to their newsletter.
 * [ToFuGu](https://www.tofugu.com/)
 * [NHK - Hiragana/Katakana with writing strokes](https://www.nhk.or.jp/lesson/en/pdf/textbook_kana_all.pdf#page=2)
+* [Otsukaresama](https://voyapon.com/japanese-manners-otsukaresama)
