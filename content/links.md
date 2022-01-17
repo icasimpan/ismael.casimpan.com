@@ -99,9 +99,13 @@ draft: false
 
 ### Linux-specific
 * [Rocky Linux](https://rockylinux.org/) - de-facto successor of CentOS
+
 ### Windows-specific
 * [MSYS2](https://www.msys2.org/) - When you're in Windows that doesn't support WSL and you want a better Unix-like CLI. This is better than [Cygwin](https://www.cygwin.com/).
 * [GreenShot](https://getgreenshot.org/downloads/) - open-source screenshot solution for Windows
+
+### Others
+* [DBeaver](https://dbeaver.io) - Universal Database Tool
 
 ## Practical Frameworks
 * [HTMLy](https://www.htmly.com) - flat-file CMS that allows you to create a fast, secure, and powerful website or blog in seconnds.
