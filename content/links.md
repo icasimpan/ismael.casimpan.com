@@ -142,8 +142,9 @@ draft: false
 
 # Renewable Energy / Solar Appliances / PowerStation Backups
 * [How to Build Your Own DIY Solar System](https://greencoast.org/diy-solar-guide/)
-* [Greenfield 200W PowerStation](https://www.lazada.com.ph/products/greenfield-portable-power-station-inverter-supply-bank-generator-200w-gps200w-buildmate-i2508970990-s11539483469.html) - Php 5,389.00 as of Jan 20, 2021 (solar ready)
-* [GDLITE GERMAN 10 Solar Lights Emergency Lighting Kit German Design with 3 SMD Led Bulbs Radio and MP3 Player with USB Outlet and Solar Panel](https://www.lazada.com.ph/products/gdlite-german-10-solar-lights-emergency-lighting-kit-german-design-with-3-smd-led-bulbs-radio-and-mp3-player-with-usb-outlet-and-solar-panel-buildmate-i1709964155-s7390836617.html) - Php 1,278.00 as of Jan 20, 2021
+* [Greenfield 200W PowerStation](https://www.lazada.com.ph/products/greenfield-portable-power-station-inverter-supply-bank-generator-200w-gps200w-buildmate-i2508970990-s11539483469.html) - Php 5,389.00 as of Jan 20, 2022 (solar ready)
+* [GDLITE GERMAN 10 Solar Lights Emergency Lighting Kit German Design with 3 SMD Led Bulbs Radio and MP3 Player with USB Outlet and Solar Panel](https://www.lazada.com.ph/products/gdlite-german-10-solar-lights-emergency-lighting-kit-german-design-with-3-smd-led-bulbs-radio-and-mp3-player-with-usb-outlet-and-solar-panel-buildmate-i1709964155-s7390836617.html) - Php 1,278.00 as of Jan 20, 2022
+* [Solar electric fan with charger and 2 bulbs direct 220v and solar panel charging fan](https://www.lazada.com.ph/products/solar-electric-fan-with-charger-and-2-bulbs-direct-220v-and-solar-panel-charging-fan-i1730146372-s10383960972.html) - Php 1,549.00 (14inch version) as of Jan 20, 2022
 
 
 # Non-IT
