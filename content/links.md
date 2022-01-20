@@ -150,6 +150,7 @@ draft: false
 * [Flashfish 50W 18V Portable Solar Panel, Foldable Solar Charger with 5V USB 18V DC Output Compatible with Portable Generator, Smartphones, Tablets and More
 ](https://www.lazada.com.ph/products/flashfish-50w-18v-portable-solar-panel-foldable-solar-charger-with-5v-usb-18v-dc-output-compatible-with-portable-generator-smartphones-tablets-and-more-i2240708672-s10102573537.html) - PHP 4,699.00 as of Jan 20, 2022
 * [Promate 240s - 400W PowerStation](https://www.lazada.com.ph/products/promate-400w-power-station-240s-i1820903035-s7729909746.html) - cheaper than dealer, Php 10,880.00 as of Jan 20, 2022
+* [Promate Titan-30C High Capacity Power Pack with Power Delivery and Quick Charge 3.0](https://www.lazada.com.ph/products/promate-titan-30c-high-capacity-power-pack-with-power-delivery-and-quick-charge-30-i1764358019-s7545088576.html) - PHP 3,320.25 as of Jan 20, 2022
 
 
 # Non-IT
