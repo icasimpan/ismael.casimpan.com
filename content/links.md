@@ -140,6 +140,12 @@ draft: false
 * [LayadCircuits](https://shopee.ph/layadcircuits) - Pinoy seller (Benguet based). Test buy ongoing.
 * [CreateLabz](https://shopee.ph/createlabz) - Pinoy seller (Davao-based) but haven't tested yet but seems good
 
+# Renewable Energy / Solar Appliances / PowerStation Backups
+* [How to Build Your Own DIY Solar System](https://greencoast.org/diy-solar-guide/)
+* [Greenfield 200W PowerStation](https://www.lazada.com.ph/products/greenfield-portable-power-station-inverter-supply-bank-generator-200w-gps200w-buildmate-i2508970990-s11539483469.html) - Php 5,389.00 as of Jan 20, 2021 (solar ready)
+* [GDLITE GERMAN 10 Solar Lights Emergency Lighting Kit German Design with 3 SMD Led Bulbs Radio and MP3 Player with USB Outlet and Solar Panel](https://www.lazada.com.ph/products/gdlite-german-10-solar-lights-emergency-lighting-kit-german-design-with-3-smd-led-bulbs-radio-and-mp3-player-with-usb-outlet-and-solar-panel-buildmate-i1709964155-s7390836617.html) - Php 1,278.00 as of Jan 20, 2021
+
+
 # Non-IT
 
 ## Amazing things
