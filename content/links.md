@@ -121,6 +121,9 @@ draft: false
 * [ExploringJS](https://exploringjs.com/)
 * [JavaScript.info](https://javascript.info/) - Learn Modern Javascript, easy to understand tutorial.
 
+## PHP
+* [Object Oriented PHP](https://phpenthusiast.com/)
+
 ## Bash scripting
 * [LinuxCommand.org](https://linuxcommand.org/) - best concise tutorial to shell scripting
 * [shellscript.sh](https://www.shellscript.sh/tips/case/index.html) - useful tips are here
