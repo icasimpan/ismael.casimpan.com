@@ -86,6 +86,7 @@ draft: false
 * [GoLangBot Tutorial Series](https://golangbot.com/learn-golang-series/)
 * [GoLangR](https://golangr.com/) - good tutorial with simple exercises for beginners
 * [Database Migration in Go](https://www.calhoun.io/database-migrations-in-go/)
+* [Golang Tutorial Guide – A List of Free Courses to Learn the Go Programming Language](https://www.freecodecamp.org/news/golang-tutorial-list-free-courses-learn-go-programming-language/)
 
 
 ## Basic Sysadmin Tools
