@@ -121,6 +121,7 @@ draft: false
 * [CanIUse](https://caniuse.com/)
 * [ExploringJS](https://exploringjs.com/)
 * [JavaScript.info](https://javascript.info/) - Learn Modern Javascript, easy to understand tutorial.
+* [JQuery Fundamentals](http://jqfundamentals.com/)
 
 ## PHP
 * [Object Oriented PHP](https://phpenthusiast.com/)
