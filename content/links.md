@@ -123,6 +123,7 @@ draft: false
 
 ## PHP
 * [Object Oriented PHP](https://phpenthusiast.com/)
+* [OOP from php.net manual](https://www.php.net/manual/en/language.oop5.php)
 
 ## Bash scripting
 * [LinuxCommand.org](https://linuxcommand.org/) - best concise tutorial to shell scripting
