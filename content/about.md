@@ -4,7 +4,7 @@ date: 2018-04-08T22:43:31+08:00
 draft: false
 ---
 
-Currently employed as System Administrator in a Web Development Company specializing in Drupal. Previously been working as Software Build Engineer(7+ years) and very much proficient in subversion and lately git. My direct sysadmin experience totals about 10years+ and codes mostly in shell(bash) and distilled in my open source [Shell Scripting Development Kit and framework - ShCF](https://ismael.casimpan.com/shcf/). Been proficient in Perl but my skills on it has been rusty lately due to unuse. I could read a python code but don't rely on me to troubleshoot it(I'll learn about it later).
+Currently employed as Technical Specialist in a Japanese-owned agency under the ITO Division. Previously worked as System Administrator (~4 years) and Software Build Engineer(7+ years) and very much proficient in git, subversion and jenkins. My direct sysadmin experience totals about 10years+ and codes mostly in shell(bash) and distilled in my open source [Shell Scripting Development Kit and framework - ShCF](https://ismael.casimpan.com/shcf/). Been proficient in Perl but my skills on it has been rusty lately due to unuse. I could read a python code but don't rely on me to troubleshoot it(I'll learn about it later).
 
 Experience with open source systems is in installation and usage...most familiar with CentOS and Ubuntu, Apache, PHP and has a bit of knowledge in Qmail and MySQL. Virtualization experience is mostly in VMWare (the free version), Oracle VirtualBox and Parallels. Public cloud experience includes AWS, Rackspace Cloud, Google Cloud, DigitalOcean and of course Acquia for Drupal.
 
@@ -16,4 +16,4 @@ Since Mar 2019, I hold the following industry certifications:
 - [LPIC-1: Linux Administrator](http://lpi.org/v/LPI000410499/cwztwt6lnb)
 - [CompTIA Security+](https://www.youracclaim.com/badges/0142b954-2449-41d5-9e97-1503f04d2457)
 
-Been experimenting with golang lately and loving it :)
+Been experimenting with [golang](https://go.dev/) lately and loving it :)
