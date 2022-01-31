@@ -28,7 +28,7 @@ draft: false
 * [Staking Theta](https://beincrypto.com/learn/how-to-stake-theta/)
 
 ### Favorite Crypto Platforms important links
-* [Nexo - Minimum cpryto to earn interest](https://support.nexo.io/hc/en-us/articles/360014748059-Minimum-amount-required-to-start-earning-high-yielding-up-to-12-APY-interest-on-your-crypto)
+* [Nexo - Minimum cpypto to earn interest](https://support.nexo.io/hc/en-us/articles/360014748059-Minimum-amount-required-to-start-earning-high-yielding-up-to-12-APY-interest-on-your-crypto)
 * [Nexo - Minimum crypto to start fixed term](https://support.nexo.io/hc/en-us/articles/4407067832850-Minimum-amount-required-to-create-a-Fixed-Term)
 * [Nexo - crypto LTV](https://support.nexo.io/hc/en-us/articles/360008240893-What-Loan-to-Value-LTV-can-I-get-on-my-assets-)
 * [Nexo - Loyalty Programs](https://support.nexo.io/hc/en-us/articles/360017445559-Nexo-Loyalty-Program-Explained)
@@ -126,6 +126,14 @@ draft: false
 ## PHP
 * [Object Oriented PHP](https://phpenthusiast.com/)
 * [OOP from php.net manual](https://www.php.net/manual/en/language.oop5.php)
+
+### Laravel
+* [Laravel Tutorial for Beginners](https://www.guru99.com/laravel-tutorial.html)
+* [Tutorialpoint: Laravel](https://www.tutorialspoint.com/laravel/index.htm)
+
+### Symfony
+* [Tutorialpoint: Symfony](https://www.tutorialspoint.com/symfony/index.htm)
+* [Symfony 5: The Fast Track](https://symfony.com/doc/current/the-fast-track/en/index.html)
 
 ## Bash scripting
 * [LinuxCommand.org](https://linuxcommand.org/) - best concise tutorial to shell scripting
