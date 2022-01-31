@@ -134,6 +134,7 @@ draft: false
 ### Symfony
 * [Tutorialpoint: Symfony](https://www.tutorialspoint.com/symfony/index.htm)
 * [Symfony 5: The Fast Track](https://symfony.com/doc/current/the-fast-track/en/index.html)
+* [Download Symfony CLI](https://github.com/symfony-cli/symfony-cli/releases)
 
 ## Bash scripting
 * [LinuxCommand.org](https://linuxcommand.org/) - best concise tutorial to shell scripting
