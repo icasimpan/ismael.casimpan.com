@@ -88,6 +88,10 @@ draft: false
 * [Database Migration in Go](https://www.calhoun.io/database-migrations-in-go/)
 * [Golang Tutorial Guide – A List of Free Courses to Learn the Go Programming Language](https://www.freecodecamp.org/news/golang-tutorial-list-free-courses-learn-go-programming-language/)
 
+# Learn Ruby
+* [150 Ruby Articles by Jesus Castello](https://www.rubyguides.com/ruby-post-index/)
+* [Idiosyncratic Ruby](https://idiosyncratic-ruby.com/) - Documenting All Ruby Specialities
+* [The Definitive Ruby Tutorial For Complete Beginners](https://www.rubyguides.com/ruby-tutorial/)
 
 ## Basic Sysadmin Tools
 ### OS-agnostic
