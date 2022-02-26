@@ -18,6 +18,7 @@ draft: false
 * [Coin Desk](https://www.coindesk.com/) - crypto news
 * [Coin Telegraph](https://www.cointelegraph.com/) - crypto news
 * [Decrypt](https://decrypt.co/) - crypto news
+* [The Defiant](https://thedefiant.io/) - crypto news
 * [Nexo](https://nexo.io/ref/zfu7vnhgcf) - earn interest with your crypto here, paid daily
 * [Celsius Network](https://app.celsius.network/) - competitor of Nexo, will also let you earn interest paid weekly
 * [StakeCube](https://stakecube.net) - best for earning highest BTC interest at 7% APY, paid daily.
