@@ -28,6 +28,7 @@ draft: false
 * [Defi Llama](https://defillama.com/chains)
 * [Staking Theta](https://beincrypto.com/learn/how-to-stake-theta/)
 * [Optimistic Rollup Explained](https://medium.com/offchainlabs/optimistic-rollups-the-present-and-future-of-ethereum-scaling-60fb9067ae87)
+* [NFT Evening](https://nftevening.com/)
 
 ### Favorite Crypto Platforms important links
 * [Nexo - Minimum crypto to earn interest](https://support.nexo.io/hc/en-us/articles/360014748059-Minimum-amount-required-to-start-earning-high-yielding-up-to-12-APY-interest-on-your-crypto)
