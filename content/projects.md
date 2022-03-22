@@ -11,4 +11,4 @@ An open source Shell SDK that let's you code big projects but without hindering 
 
 * *docktie - Docker Shortie*
 
-An open source tool written in bash and shcf, simplifying calls to commands inside docker containers. See [https://github.com/icasimpan/docktie](https://github.com/icasimpan/docktie)*
+An open source tool written in bash and shcf, simplifying calls to commands inside docker containers. See [https://github.com/icasimpan/docktie](https://github.com/icasimpan/docktie)
