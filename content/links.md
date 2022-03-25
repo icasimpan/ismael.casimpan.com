@@ -33,6 +33,7 @@ draft: false
 ### Favorite Crypto Platforms important links
 * [Nexo - Minimum crypto to earn interest](https://support.nexo.io/hc/en-us/articles/360014748059-Minimum-amount-required-to-start-earning-high-yielding-up-to-12-APY-interest-on-your-crypto)
 * [Nexo - Minimum crypto to start fixed term](https://support.nexo.io/hc/en-us/articles/4407067832850-Minimum-amount-required-to-create-a-Fixed-Term)
+* [Nexo - Minimum crypto to withdraw](https://support.nexo.io/hc/en-us/articles/360012914014-What-is-the-minimum-amount-of-crypto-I-can-withdraw-)
 * [Nexo - crypto LTV](https://support.nexo.io/hc/en-us/articles/360008240893-What-Loan-to-Value-LTV-can-I-get-on-my-assets-)
 * [Nexo - Loyalty Programs](https://support.nexo.io/hc/en-us/articles/360017445559-Nexo-Loyalty-Program-Explained)
 * [Nexo - processing time](https://support.nexo.io/hc/en-us/articles/360010650140-Processing-time-of-cryptocurrency-deposits-blockchain-confirmations-)
