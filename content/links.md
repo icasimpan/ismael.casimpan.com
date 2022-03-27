@@ -40,6 +40,7 @@ draft: false
 * [Nexo - time to interest crediting](https://support.nexo.io/hc/en-us/articles/360014529240-Why-did-I-not-receive-interest-on-my-savings-)
 * [Celsius - Promo Codes](https://allaboutcelsius.com/active-celsius-promo-codes/)
 * [Celsius - Crypto Swap (BETA)](https://celsius.network/swap-crypto) - won't allow swap of loan proceeds unlike Nexo
+* [ETH Burned Analytics: Watchtheburn](https://www.watchtheburn.com)
 
 
 ### Personal Crypto Charts (restricted)
