@@ -37,6 +37,7 @@ draft: false
 * [Nexo - crypto LTV](https://support.nexo.io/hc/en-us/articles/360008240893-What-Loan-to-Value-LTV-can-I-get-on-my-assets-)
 * [Nexo - Loyalty Programs](https://support.nexo.io/hc/en-us/articles/360017445559-Nexo-Loyalty-Program-Explained)
 * [Nexo - processing time](https://support.nexo.io/hc/en-us/articles/360010650140-Processing-time-of-cryptocurrency-deposits-blockchain-confirmations-)
+* [Nexo - 0% fees for loans](https://nexo.io/blog/hello-0-borrowing-rates)
 * [Nexo - time to interest crediting](https://support.nexo.io/hc/en-us/articles/360014529240-Why-did-I-not-receive-interest-on-my-savings-)
 * [Celsius - Promo Codes](https://allaboutcelsius.com/active-celsius-promo-codes/)
 * [Celsius - Crypto Swap (BETA)](https://celsius.network/swap-crypto) - won't allow swap of loan proceeds unlike Nexo
