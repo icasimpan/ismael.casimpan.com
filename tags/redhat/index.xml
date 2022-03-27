@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>redhat on icasimpan</title>
+    <link>/tags/redhat/</link>
+    <description>Recent content in redhat on icasimpan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Oct 2018 17:08:13 +0800</lastBuildDate><atom:link href="/tags/redhat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IBM Buys RedHat</title>
+      <link>/posts/ibm-buys-redhat/</link>
+      <pubDate>Mon, 29 Oct 2018 17:08:13 +0800</pubDate>
+      
+      <guid>/posts/ibm-buys-redhat/</guid>
+      <description>Yes, it&amp;rsquo;s official: IBM is indeed buying RedHat. I&amp;rsquo;m an pro-Open Source and RedHat (and derivative OS such as CentOS) is my favorite but I don&amp;rsquo;t see anything bad from it. Instead, I&amp;rsquo;m very happy that the enterprise world that IBM represents some several decades ago is now taking in RedHat (a huge Open Source advocate AND backer) as it&amp;rsquo;s own.
+Whether open source or closed source, any business would need to be in a good financial capacity in order to move forward.</description>
+    </item>
+    
+  </channel>
+</rss>

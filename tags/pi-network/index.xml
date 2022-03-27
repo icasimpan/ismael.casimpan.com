@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pi-network on icasimpan</title>
+    <link>/tags/pi-network/</link>
+    <description>Recent content in pi-network on icasimpan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Oct 2020 10:58:44 +0800</lastBuildDate><atom:link href="/tags/pi-network/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pi Network</title>
+      <link>/posts/pi-network/</link>
+      <pubDate>Fri, 09 Oct 2020 10:58:44 +0800</pubDate>
+      
+      <guid>/posts/pi-network/</guid>
+      <description>A few days ago from this blog post, I got invited by a friend to join the Pi Network. I&amp;rsquo;ve been a cryptocurrency observer for quite some time and I have seen things come and go. I was a bit skeptical but at the same time curious of what it is. I activated Cloudflare&amp;rsquo;s FREE WARP+ on my phone so I could be sure this is not something that&amp;rsquo;s hideous. So far, EVERYTHING checks out, so I joined.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>always-https on icasimpan</title>
+    <link>/tags/always-https/</link>
+    <description>Recent content in always-https on icasimpan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Aug 2020 10:58:44 +0800</lastBuildDate><atom:link href="/tags/always-https/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enforcing Always HTTPS in Github Pages</title>
+      <link>/posts/enforcing-always-https-in-github-pages/</link>
+      <pubDate>Fri, 21 Aug 2020 10:58:44 +0800</pubDate>
+      
+      <guid>/posts/enforcing-always-https-in-github-pages/</guid>
+      <description>For those who knows how to look, this personal site of mine is hosted in Github Pages.
+I have my notes in https://ismael.casimpan.com/quicktasks. Each individual quicktask is a repo (e.g https://github.com/icasimpan/quicktasks-drupal.git) with TravisCI integration that builds it.
+However, I noticed that some of my quicktasks are not always https or is not redirected automatically. Look at the http headers for (QuickTask for Postfix)[http://ismael.casimpan.com/quicktasks-postfix] when accessing it without the protocol:
+I never paid attention to those before, but today, I was curious as to why.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sites on icasimpan</title>
+    <link>/tags/sites/</link>
+    <description>Recent content in sites on icasimpan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Jun 2021 21:32:00 +0800</lastBuildDate><atom:link href="/tags/sites/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some Interesting Sites</title>
+      <link>/links/</link>
+      <pubDate>Tue, 08 Jun 2021 21:32:00 +0800</pubDate>
+      
+      <guid>/links/</guid>
+      <description>IT / Computing / Electronics Quick Learning  Learn X in Y Minutes - any programming language in a few minutes  Docker / Kubernetes  LinuxServer - community maintained docker images The New Stack  Cryptocurrencies  Coin Desk - crypto news Coin Telegraph - crypto news Decrypt - crypto news The Defiant - crypto news Nexo - earn interest with your crypto here, paid daily Celsius Network - competitor of Nexo, will also let you earn interest paid weekly StakeCube - best for earning highest BTC interest at 7% APY, paid daily.</description>
+    </item>
+    
+  </channel>
+</rss>

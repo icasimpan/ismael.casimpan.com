@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="Ismael Angelo A. Casimpan Jr.">
+    <meta name="description" content="My personal website">
+    <meta name="keywords" content="blog,sysadmin,personal">
+
+    <base href="">
+    <title>
+  Liar vs Truthful Mail Server · icasimpan
+</title>
+
+    <link rel="canonical" href="/posts/liar-vs-truthful-mail-server/">
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Merriweather:300,700|Source+Code+Pro:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css" integrity="sha256-oSrCnRYXvHG31SBifqP2PM1uje7SJUyX0nTwO2RJV54=" crossorigin="anonymous" />
+
+    
+      
+      
+      <link rel="stylesheet" href="/css/coder.min.da5204b40ef8cbcb52b75a8cac5656a9cebc00a15e25c865a4b84a3c06b3ed82.css" integrity="sha256-2lIEtA74y8tSt1qMrFZWqc68AKFeJchlpLhKPAaz7YI=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+      <link rel="stylesheet" href="css/custom.css">
+    
+
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+    
+
+    <meta name="generator" content="Hugo 0.84.0" />
+  </head>
+
+  <body class="">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="">
+      icasimpan
+    </a>
+    <input type="checkbox" id="menu-toggle" />
+    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+    <ul class="navigation-list">
+      
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="/posts/">Blog</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="/projects/">Projects</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="/quicktasks/">QuickTasks</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="/links/">Links</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="/about/">About</a>
+          </li>
+        
+      
+      
+    </ul>
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">Liar vs Truthful Mail Server</h1>
+        </div>
+        <div class="post-meta">
+          <span class="posted-on">
+            <i class="far fa-calendar"></i>
+            <time datetime='2009-03-01T00:00:00&#43;08:00'>
+              March 1, 2009
+            </time>
+          </span>
+          <span class="reading-time">
+            <i class="far fa-clock"></i>
+            2 minutes read
+          </span>
+        </div>
+      </header>
+
+      <div>
+        <p>Once upon a time, when spam was not yet an &ldquo;in thing&rdquo;, mail servers where all truthful. A mail server that sends an email to another for a non-existing address always receives a notice from its peer that says &ldquo;Sorry buddy, I can&rsquo;t find it in my address list.&rdquo; Years later, the demons(spammers) found out about sending junk mails or spam. So, the IT gods(email admin) brainstormed on how to contain the inbox chaos.</p>
+<p>Many ideas where submitted but only two suggestions emerged with the most number of supporters:</p>
+<p>A. Accept all mails but throw away those destined for a non-existing inbox
+B. Still send the &ldquo;mail not found error&rdquo; and wait for the spammers to change heart.</p>
+<p>Both proposals have valid points. Proposal A supporters contends that they should never make the demon&rsquo;s job easier by telling them which address exist on a mail server and which one does not. Proposal B supporters though points out that it&rsquo;s against the mail server standard not to reply appropriately.</p>
+<p>The two groups where not able to come to terms and so, we have today mail servers that don&rsquo;t tell the truth.</p>
+<p>So, how do you know which type of mail server it is that you&rsquo;re dealing with? It&rsquo;s fairly easy.
+Using some of the tools online that checks for mail server responses, like <a href="https://www.ultratools.com/tools/emailTest">neustar Email Server Test</a>:</p>
+<p>Check how the mail server responds to a random email address such as &ldquo;<a href="mailto:asdfa3q2xcy53c323das4yux@casimpan.com">asdfa3q2xcy53c323das4yux@casimpan.com</a>&rdquo; or <a href="mailto:asdf3s6ydq34xy7wec23572@casimpan.com">asdf3s6ydq34xy7wec23572@casimpan.com</a> (please replace casimpan.com with the domain name of the email you are checking, the one after the @)</p>
+<p>If the mail server responds with something like &ldquo;email address ok&rdquo; to random email addresses you used in #1, then, that&rsquo;s a liar mail server. Otherwise, it&rsquo;s truthful.</p>
+<p><!-- raw HTML omitted -->NOTE: First published in my <a href="https://web.archive.org/web/20100927055819/http://www.buggedtech.com:80/">now defunct blog</a>.<!-- raw HTML omitted --></p>
+
+      </div>
+
+      <footer>
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "icasimpan" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      </footer>
+    </article>
+
+    
+  </section>
+
+      </div>
+
+      <footer class="footer">
+  <section class="container">
+    
+     © 2021
+    
+       · 
+      Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+    
+    
+  </section>
+</footer>
+
+    </main>
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-6885542-9', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+  </body>
+
+</html>

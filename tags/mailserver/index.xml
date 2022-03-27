@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mailserver on icasimpan</title>
+    <link>/tags/mailserver/</link>
+    <description>Recent content in mailserver on icasimpan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Mar 2009 00:00:00 +0800</lastBuildDate><atom:link href="/tags/mailserver/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liar vs Truthful Mail Server</title>
+      <link>/posts/liar-vs-truthful-mail-server/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/liar-vs-truthful-mail-server/</guid>
+      <description>Once upon a time, when spam was not yet an &amp;ldquo;in thing&amp;rdquo;, mail servers where all truthful. A mail server that sends an email to another for a non-existing address always receives a notice from its peer that says &amp;ldquo;Sorry buddy, I can&amp;rsquo;t find it in my address list.&amp;rdquo; Years later, the demons(spammers) found out about sending junk mails or spam. So, the IT gods(email admin) brainstormed on how to contain the inbox chaos.</description>
+    </item>
+    
+  </channel>
+</rss>

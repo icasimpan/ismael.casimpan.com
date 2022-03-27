@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>windows10 on icasimpan</title>
+    <link>/tags/windows10/</link>
+    <description>Recent content in windows10 on icasimpan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Jun 2021 14:40:13 +0800</lastBuildDate><atom:link href="/tags/windows10/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Sprobe</title>
+      <link>/posts/hello-sprobe/</link>
+      <pubDate>Sun, 20 Jun 2021 14:40:13 +0800</pubDate>
+      
+      <guid>/posts/hello-sprobe/</guid>
+      <description>June 21, 2021 is my official onboarding with Sprobe, Inc. As per my official designation, I&amp;rsquo;ll be working in a project that utilizes bash, awk and postgresql. Of course, it should be more than that but I can&amp;rsquo;t tell you much at this point.
+I&amp;rsquo;m currently setting up my workstations which are all Windows 10. As I&amp;rsquo;m a heavy CLI user since my employment at GoAbroad, I tried installing MSYS2. I find it more convenient and flexible to install and use than Cygwin while I was working at Nokia Manila TC.</description>
+    </item>
+    
+  </channel>
+</rss>

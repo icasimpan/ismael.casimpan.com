@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raspberry-pi on icasimpan</title>
+    <link>/tags/raspberry-pi/</link>
+    <description>Recent content in raspberry-pi on icasimpan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Aug 2020 18:34:01 +0800</lastBuildDate><atom:link href="/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>USB Wireless Dongle that Works in Raspberry Pi</title>
+      <link>/posts/usb-wireless-dongle-that-works-raspberry-pi/</link>
+      <pubDate>Sat, 22 Aug 2020 18:34:01 +0800</pubDate>
+      
+      <guid>/posts/usb-wireless-dongle-that-works-raspberry-pi/</guid>
+      <description>I had my first raspberry pi way back 2015 but I never get to use it. Back then, that single-board computer doesn&amp;rsquo;t have a built-in wireless interface. Past forward 2020 and I bought a new PI on Lazada without checking on the specs&amp;hellip;so I got a wifi dongle as well.
+My pi arrived first and after thoroughly reading the specs, I laughed at myself for buying something that I may never need.</description>
+    </item>
+    
+  </channel>
+</rss>

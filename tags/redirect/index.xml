@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>redirect on icasimpan</title>
+    <link>/tags/redirect/</link>
+    <description>Recent content in redirect on icasimpan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Feb 2009 00:00:00 +0800</lastBuildDate><atom:link href="/tags/redirect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redirect Many URL to One URL in Apache</title>
+      <link>/posts/redirect-many-url-to-one-url-in-apache/</link>
+      <pubDate>Fri, 13 Feb 2009 00:00:00 +0800</pubDate>
+      
+      <guid>/posts/redirect-many-url-to-one-url-in-apache/</guid>
+      <description>I recently faced a situation wherein I have to permanently redirect a list of URLs to a single URL. I&amp;rsquo;m used to doing it for 1 to 1 redirects(1 url to another) but this is the first time I did it for a lot of URL.
+Example:
+ http://www.example.com/oldschool/index.php?i=1 http://www.example.com/oldschool/index.cfm?i=55 http://www.example.com/oldschool/SchoolOfRock.html http://www.example.com/oldschool/School-of-Knocks.htm  will need to be redirected to:
+ http://www.example.com/university  The solution? Use the RedirectMatch directive in Apache. It&amp;rsquo;s so easy to use.</description>
+    </item>
+    
+  </channel>
+</rss>

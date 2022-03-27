@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>projects on icasimpan</title>
+    <link>/tags/projects/</link>
+    <description>Recent content in projects on icasimpan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 14 Oct 2018 21:32:00 +0800</lastBuildDate><atom:link href="/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Sun, 14 Oct 2018 21:32:00 +0800</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>shcf - Shell Coding Simplified!  An open source Shell SDK that let&amp;rsquo;s you code big projects but without hindering how you code. See https://ismael.casimpan.com/shcf
+ docktie - Docker Shortie  An open source tool written in bash and shcf, simplifying calls to commands inside docker containers. See https://github.com/icasimpan/docktie</description>
+    </item>
+    
+  </channel>
+</rss>
