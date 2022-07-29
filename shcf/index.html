@@ -197,32 +197,46 @@ Re-run:</p>
 <div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">~$ curl -s https://packagecloud.io/install/repositories/icasimpan/shcf/script.deb.sh | sudo bash
 </code></pre></div><p>Package hosting generously provided <a href="https://packagecloud.io">PackageCloud.io</a></p>
 <h1 id="inspirations">INSPIRATIONS</h1>
-<ol>
-<li><strong>Model-View-Controller(MVC) pattern</strong> I am not fully sure if I understand the MVC pattern correctly, but in my own understanding:</li>
-</ol>
-<ul>
-<li>
-<p><strong>Model</strong> is the business logic or the <em>&ldquo;how&rdquo;</em> of this framework. It is the one that bears the burden on how a specific functionality is to be carried out.
-In this framework, you can see the &lsquo;model&rsquo; inside &ldquo;lib&rdquo;, like <code>sqlQuery.bash.inc</code></p>
-</li>
-<li>
-<p><strong>View</strong> is the frontliner, the one that faces the demanding customer, the end-user. Up to this point, there are no example &lsquo;view&rsquo; yet but it the near future, it is the script
-that uses this framework which can be considered as the &lsquo;view&rsquo;</p>
-</li>
-<li>
-<p><strong>Controller</strong> is the mediator/middle-man directing the requests of the demanding customer(via &lsquo;View&rsquo;) to the corresponding &lsquo;model&rsquo;.
-For instance, we have a script that does an SQL query. The script(also called the &lsquo;view&rsquo;), having been asked by the demanding customer to do
-an SQL query, would look up through the &lsquo;controller&rsquo; if an sql-query &lsquo;model&rsquo; can be found. Controller then knows how to locate such &lsquo;model&rsquo;.
-In this framework, controller is called <em>etc/controller.bash.inc</em> which should be included in every scripts that uses this framework.</p>
-</li>
-</ul>
-<ol start="2">
-<li>auto-loading in PHP Having seen a lot of shell scripts with functions being duplicated across scripts made me realize how it is a maintenance nightmare. A slight change in functionality on the main tool it is supporting would mean changing a lot of scripts. So I made a roughly similar functionality in this framework so that only one function would be made and will simply be called in each script that needs it. Maintenance would be easily done quickly. In this framework, it can be seen in lib/autoload_functions.bash.inc and will be called in script something like</li>
-</ol>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">autoload_functions &#34;func1 func2 func3 etc&#34;
-</code></pre></div><p>The above way to call autoload_function means that functions is directly accessible from lib and NOT inside directories within lib. To reference a function stored in a directory within lib prefix it with the directory relative to lib. For example to use sqlQuery function which is stored in lib/db/sql/mysql and ishost_up located in lib/box_mgt you will call autoload_function like</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">autoload_functions &#34;lib/db/sql/mysql/sqlQuery box_mgt/ishost_up&#34;
-</code></pre></div><p>In short, calling stays relatively the same, only that you have to prefix each function with directory name in which it is stored.</p>
+<h2 id="1-model-view-controllermvc-pattern">1. Model-View-Controller(MVC) pattern</h2>
+<p>I am not fully sure if I understand the MVC pattern correctly, but in my own understanding:</p>
+<table>
+<thead>
+<tr>
+<th>What</th>
+<th>Brief Description</th>
+<th>Framework Implementation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Model</strong></td>
+<td>Business logic or the &ldquo;how&rdquo;. Does the heavy lifting on how specific functionality is carried out.</td>
+<td><code>lib</code> (e.g sqlQuery.bash.inc)</td>
+</tr>
+<tr>
+<td><strong>View</strong></td>
+<td>The frontliner, the one that faces the demanding customer, the end-user.</td>
+<td>scripts created in <code>bin</code></td>
+</tr>
+<tr>
+<td><strong>Controller</strong></td>
+<td>Mediator/middle-man directing the requests of the demanding customer(via &lsquo;View&rsquo;) to corresponding &lsquo;model&rsquo;.</td>
+<td><code>etc/controller.bash.inc</code></td>
+</tr>
+</tbody>
+</table>
+<h2 id="2-auto-loading-in-php">2. Auto-Loading in PHP</h2>
+<p>I&rsquo;ve seen a lot of shell scripts, coded a lot myself and as the code grows, so does the maintenance nightmare.
+Function duplication is one of the key headaches that it&rsquo;s a must for a simplified way of managing functions/libraries.</p>
+<p>In this framework, it can be seen in lib/autoload_functions.bash.inc and will be called in script something like:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">   autoload_functions <span style="font-style:italic">&#34;func1 func2 func3 etc&#34;</span>
+</code></pre></div><p>The above way to call &lsquo;autoload_function&rsquo; means that functions is directly accessible from &lsquo;lib&rsquo; and NOT in subdirectories.</p>
+<p>Autoloading is very flexible and you can re-arrange libraries as you see fit. For example to use sqlQuery function which is stored in &lsquo;lib/db/sql/mysql&rsquo; and &lsquo;ishost_up&rsquo; located in &lsquo;lib/box_mgt&rsquo; you will call &lsquo;autoload_function&rsquo; like</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-sh" data-lang="sh">   autoload_functions <span style="font-style:italic">&#34;lib/db/sql/mysql/sqlQuery box_mgt/ishost_up&#34;</span>
+</code></pre></div><p>In short, auto-loading stays relatively the same. Just prefix a function with the directory where it is stored and no directory name prefix if it is in same level as autoload_functions.bash.inc.</p>
+<h2 id="3-drupal-concept-of-custom-and-contrib-modules">3. Drupal concept of custom and contrib modules</h2>
+<p>As you may have noticed by now, Auto-loading is very flexible. But my high-level experience of drupal clarified how auto-loading should be done right.
+Libraries that is specific to your script MUST be created inside <code>lib/custom</code> while those that are reusable and comes from external sources (e.g. <a href="https://github.com/shsdk/shcf-lib">https://github.com/shsdk/shcf-lib</a>) should be in <code>lib/contrib</code>.</p>
 
   </article>
 </section>
