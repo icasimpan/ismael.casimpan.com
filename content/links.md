@@ -179,6 +179,8 @@ draft: false
 * [Promate 240s - 400W PowerStation](https://www.lazada.com.ph/products/promate-400w-power-station-240s-i1820903035-s7729909746.html) - cheaper than dealer, Php 10,880.00 as of Jan 20, 2022
 * [Promate Titan-30C High Capacity Power Pack with Power Delivery and Quick Charge 3.0](https://www.lazada.com.ph/products/promate-titan-30c-high-capacity-power-pack-with-power-delivery-and-quick-charge-30-i1764358019-s7545088576.html) - PHP 3,320.25 as of Jan 20, 2022
 
+# Productivity Tools
+* [Join MS Teams Meeting from Web](https://www.microsoft.com/en-ww/microsoft-teams/join-a-meeting)
 
 # Non-IT
 
