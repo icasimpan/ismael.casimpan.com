@@ -18,9 +18,9 @@ draft: false
 * [Coin Desk](https://www.coindesk.com/) - crypto news
 * [Coin Telegraph](https://www.cointelegraph.com/) - crypto news
 * [Decrypt](https://decrypt.co/) - crypto news
-* [The Defiant](https://thedefiant.io/) - crypto news
+* [The Defiant](https://thedefiant.io/) - crypto news (mostly about DeFi or Decentralized Finance)
 * [Nexo](https://nexo.io/ref/zfu7vnhgcf) - earn interest with your crypto here, paid daily
-* [Celsius Network](https://app.celsius.network/) - competitor of Nexo, will also let you earn interest paid weekly
+* [Celsius Network](https://app.celsius.network/) - competitor of Nexo, will also let you earn interest paid weekly but curreently [undergoing Bankrupcy Proceedings](https://www.forbes.com/sites/haileylennon/2022/08/01/bankrupt-crypto-lender-celsius-could-leave-customers-last-in-line-to-get-paid/)
 * [StakeCube](https://stakecube.net) - best for earning highest BTC interest at 7% APY, paid daily.
 * [CoinGecko](https://coingecko.com) - best crypto historical price aggregator
 * [Panthera Capital Blockchain Letters](https://panteracapital.com/blockchain-letter/) - Panthera Capital newsletter
@@ -30,6 +30,8 @@ draft: false
 * [Optimistic Rollup Explained](https://medium.com/offchainlabs/optimistic-rollups-the-present-and-future-of-ethereum-scaling-60fb9067ae87)
 * [NFT Evening](https://nftevening.com/)
 * [DApp Radar](https://dappradar.com/) - Discover, Track & Trade Everything DeFi, NFT and Gaming
+* [DEXScreener](https://dexscreener.com/) - tool to screen DEX (Decentralized Exchanges)
+* [DogeChain](https://dogechain.dog/) - POS-based layer-2 chain to allow DOGE to benefit from DeFi, NFT as wDOGE
 
 ### Favorite Crypto Platforms important links
 * [Nexo - Minimum crypto to earn interest](https://support.nexo.io/hc/en-us/articles/360014748059-Minimum-amount-required-to-start-earning-high-yielding-up-to-12-APY-interest-on-your-crypto)
