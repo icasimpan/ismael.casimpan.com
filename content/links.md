@@ -33,6 +33,7 @@ draft: false
 * [DEXScreener](https://dexscreener.com/) - tool to screen DEX (Decentralized Exchanges)
 * [DogeChain](https://dogechain.dog/) - POS-based layer-2 chain to allow DOGE to benefit from DeFi, NFT as wDOGE
 * [MEV Explorer](https://explore.flashbots.net)
+* [Capital Market Insights - crypto related](https://app.intotheblock.com/insights/markets/indices/crypto-related)
 
 ### Favorite Crypto Platforms important links
 * [Nexo - Minimum crypto to earn interest](https://support.nexo.io/hc/en-us/articles/360014748059-Minimum-amount-required-to-start-earning-high-yielding-up-to-12-APY-interest-on-your-crypto)
