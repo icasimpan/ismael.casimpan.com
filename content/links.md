@@ -18,6 +18,10 @@ draft: false
 * [TryHackMe](https://www.tryhackme.com/)
 * [PicoCTF](https://www.picoctf.org)
 * [CFTime](http://www.ctftime.org/)
+* [LetsDefend](https://letsdefend.io/) - build a blue team career with hands-on experience by investigating real cyber attacks inside a simulated SOC
+* [OverTheWire](https://overthewire.org/wargames/)
+* [Root Me](https://www.root-me.org/?lang=en) - challenge your hacking skills
+
 
 ## Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/) - crypto news
