@@ -21,6 +21,9 @@ draft: false
 * [LetsDefend](https://letsdefend.io/) - build a blue team career with hands-on experience by investigating real cyber attacks inside a simulated SOC
 * [OverTheWire](https://overthewire.org/wargames/)
 * [Root Me](https://www.root-me.org/?lang=en) - challenge your hacking skills
+* [Hacker Combat](https://www.hackercombat.com)
+* [HaveIBeenPawned](https://haveibeenpwned.com/) - FREE site to check if your email or phone is in a breach.
+* [Reverse Tabnabbing](https://techblog.topdesk.com/security/developers-need-know-reverse-tabnabbing/) - links exploit prevention
 
 
 ## Cryptocurrencies
@@ -57,6 +60,8 @@ draft: false
 * [Celsius - Crypto Swap (BETA)](https://celsius.network/swap-crypto) - won't allow swap of loan proceeds unlike Nexo
 * [ETH Burned Analytics: Watchtheburn](https://www.watchtheburn.com)
 
+## Opensource Aviation Data
+* [ADS-B Exchange](https://www.adsbexchange.com/) - World's largest source of unfiltered flight data
 
 ### Personal Crypto Charts (restricted)
 * >>> [BTC Fear and Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
@@ -82,12 +87,6 @@ draft: false
 * [VID/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=KUCOIN%3AVIDUSDT)
 * [HOT/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3AHOTUSDT)
 * [LUNA/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3ALUNAUSDT)
-
-
-## IT Security
-* [Hacker Combat](https://www.hackercombat.com)
-* [HaveIBeenPawned](https://haveibeenpwned.com/) - FREE site to check if your email or phone is in a breach.
-* [Reverse Tabnabbing](https://techblog.topdesk.com/security/developers-need-know-reverse-tabnabbing/) - links exploit prevention
 
 ## Learn Python
 * [PyNative](https://pynative.com/python/)
