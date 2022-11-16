@@ -34,6 +34,8 @@ draft: false
 * [US Govt MultiState ISAC](https://www.cisecurity.org/ms-isac)
 * [US Govt Elections ISAC](https://www.cisecurity.org/el-isac)
 * [Critical Infrastructure Sectors](https://www.cisa.gov/critical-infrastructure-sectors)
+* [Live Malware: The Zoo](https://github.com/ytisf/theZoo)
+* [Empire Project](https://github.com/EmpireProject/Empire/wiki/Quickstart)
 
 ## Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/) - crypto news
