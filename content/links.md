@@ -24,6 +24,8 @@ draft: false
 * [Hacker Combat](https://www.hackercombat.com)
 * [HaveIBeenPawned](https://haveibeenpwned.com/) - FREE site to check if your email or phone is in a breach.
 * [Reverse Tabnabbing](https://techblog.topdesk.com/security/developers-need-know-reverse-tabnabbing/) - links exploit prevention
+* [MISP](https://www.misp-project.org/) - Malware Information Sharing Platform
+* [VirusTotal](https://www.virustotal.com/) - Threat Hunting
 
 
 ## Cryptocurrencies
