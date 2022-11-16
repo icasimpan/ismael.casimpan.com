@@ -59,7 +59,7 @@ draft: false
 * [Maltego](https://www.maltego.com/) - for gathering OSInt (Open Source Intelligence)
 * [Recon NG](https://www.geeksforgeeks.org/recon-ng-installation-on-kali-linux/)
 * [FM 2-22.3 Human Intelligence Collector Operations](https://en.wikipedia.org/wiki/FM_2-22.3_Human_Intelligence_Collector_Operations)
-
+* [Known Advanced Persistent Thread Groups](https://www.mandiant.com/resources/insights/apt-groups) - c/o FireEye
 
 ### Favorite Crypto Platforms important links
 * [Nexo - Minimum crypto to earn interest](https://support.nexo.io/hc/en-us/articles/360014748059-Minimum-amount-required-to-start-earning-high-yielding-up-to-12-APY-interest-on-your-crypto)
