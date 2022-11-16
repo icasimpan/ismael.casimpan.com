@@ -28,7 +28,12 @@ draft: false
 * [VirusTotal](https://www.virustotal.com/) - Threat Hunting
 * [Tallos Intelligence](https://www.talosintelligence.com/) - from Cisco
 * [Google Toolbox](https://toolbox.googleapps.com/apps/main/)
-
+* [Health ISAC](https://h-isac.org/) - Healthcare Info Sharing and Analysis Center
+* [Financial ISAC](https://www.fsisac.com/) - Financial Info Sharing and Analysis Center
+* [Aviation ISAC](https://www.a-isac.com/) - Aviation Info Sharing and Analysis Center
+* [US Govt MultiState ISAC](https://www.cisecurity.org/ms-isac)
+* [US Govt Elections ISAC](https://www.cisecurity.org/el-isac)
+* [Critical Infrastructure Sectors](https://www.cisa.gov/critical-infrastructure-sectors)
 
 ## Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/) - crypto news
@@ -53,6 +58,7 @@ draft: false
 * [Shodan](https://www.shodan.io/) - Search Anything for the Internet of Everything
 * [Maltego](https://www.maltego.com/) - for gathering OSInt (Open Source Intelligence)
 * [Recon NG](https://www.geeksforgeeks.org/recon-ng-installation-on-kali-linux/)
+* [FM 2-22.3 Human Intelligence Collector Operations](https://en.wikipedia.org/wiki/FM_2-22.3_Human_Intelligence_Collector_Operations)
 
 
 ### Favorite Crypto Platforms important links
