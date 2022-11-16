@@ -27,6 +27,7 @@ draft: false
 * [MISP](https://www.misp-project.org/) - Malware Information Sharing Platform
 * [VirusTotal](https://www.virustotal.com/) - Threat Hunting
 * [Tallos Intelligence](https://www.talosintelligence.com/) - from Cisco
+* [Google Toolbox](https://toolbox.googleapps.com/apps/main/)
 
 
 ## Cryptocurrencies
@@ -49,6 +50,10 @@ draft: false
 * [DogeChain](https://dogechain.dog/) - POS-based layer-2 chain to allow DOGE to benefit from DeFi, NFT as wDOGE
 * [MEV Explorer](https://explore.flashbots.net)
 * [Capital Market Insights - crypto related](https://app.intotheblock.com/insights/markets/indices/crypto-related)
+* [Shodan](https://www.shodan.io/) - Search Anything for the Internet of Everything
+* [Maltego](https://www.maltego.com/) - for gathering OSInt (Open Source Intelligence)
+* [Recon NG](https://www.geeksforgeeks.org/recon-ng-installation-on-kali-linux/)
+
 
 ### Favorite Crypto Platforms important links
 * [Nexo - Minimum crypto to earn interest](https://support.nexo.io/hc/en-us/articles/360014748059-Minimum-amount-required-to-start-earning-high-yielding-up-to-12-APY-interest-on-your-crypto)
