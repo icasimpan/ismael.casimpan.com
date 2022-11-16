@@ -26,6 +26,7 @@ draft: false
 * [Reverse Tabnabbing](https://techblog.topdesk.com/security/developers-need-know-reverse-tabnabbing/) - links exploit prevention
 * [MISP](https://www.misp-project.org/) - Malware Information Sharing Platform
 * [VirusTotal](https://www.virustotal.com/) - Threat Hunting
+* [Tallos Intelligence](https://www.talosintelligence.com/) - from Cisco
 
 
 ## Cryptocurrencies
