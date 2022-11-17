@@ -36,6 +36,8 @@ draft: false
 * [Critical Infrastructure Sectors](https://www.cisa.gov/critical-infrastructure-sectors)
 * [Live Malware: The Zoo](https://github.com/ytisf/theZoo)
 * [Empire Project](https://github.com/EmpireProject/Empire/wiki/Quickstart)
+* [STIX and TAXII](https://oasis-open.github.io/cti-documentation/) - Sharing threat intelligence standards
+* [Johari Window Model](https://www.communicationtheory.org/the-johari-window-model/) - Need to know in sharing threat intelligence
 
 ## Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/) - crypto news
