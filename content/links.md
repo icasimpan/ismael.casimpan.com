@@ -70,12 +70,19 @@ draft: false
 * [DogeChain](https://dogechain.dog/) - POS-based layer-2 chain to allow DOGE to benefit from DeFi, NFT as wDOGE
 * [MEV Explorer](https://explore.flashbots.net)
 * [Capital Market Insights - crypto related](https://app.intotheblock.com/insights/markets/indices/crypto-related)
+* [Web3 Careers](https://web3.career/)
 
 ### Ethereum-Specific
 * [Ethereum Blocktime](https://etherscan.io/chart/blocktime) - approx every 13 seconds
 * [What is gas in Ethereum](https://community.metamask.io/t/what-is-gas-why-do-transactions-take-so-long/3172) - you may also see the [gas report](https://coinmetrics.io/the-ethereum-gas-report/)
 * [Ethereum Average Gas Price](https://ycharts.com/indicators/ethereum_average_gas_price)
 * [Ethereum Gas Tracker](https://etherscan.io/gastracker)
+* [Ethereum Local Dev Environments](https://ethereum.org/en/developers/local-environment/)
+* [Ethereum Dev using Python](https://ethereum.org/en/developers/docs/programming-languages/python/)
+* [Setup Private Ethereum Testnet](https://gist.github.com/dondiimperial/173fe74dfe09c3a6ad2dd6a0adbf5069)
+* [Learn Solidity - Youtube](https://www.youtube.com/watch?v=sngKPYfUgkc&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo)
+* [Remix - Online Ethereum IDE](https://remix.ethereum.org/)
+* [Solidity Documentation](https://docs.soliditylang.org/)
 
 ### Favorite Crypto Platforms important links
 * [Nexo - Minimum crypto to earn interest](https://support.nexo.io/hc/en-us/articles/360014748059-Minimum-amount-required-to-start-earning-high-yielding-up-to-12-APY-interest-on-your-crypto)
@@ -160,6 +167,7 @@ draft: false
 
 ### Others
 * [DBeaver](https://dbeaver.io) - Universal Database Tool
+* [Matomo - Opensource alternative to Google Analytics](https://matomo.org/) - used by Ethereum Remix
 
 ## Practical Frameworks
 * [HTMLy](https://www.htmly.com) - flat-file CMS that allows you to create a fast, secure, and powerful website or blog in seconnds.
