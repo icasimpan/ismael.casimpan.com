@@ -38,6 +38,17 @@ draft: false
 * [Empire Project](https://github.com/EmpireProject/Empire/wiki/Quickstart)
 * [STIX and TAXII](https://oasis-open.github.io/cti-documentation/) - Sharing threat intelligence standards
 * [Johari Window Model](https://www.communicationtheory.org/the-johari-window-model/) - Need to know in sharing threat intelligence
+* [Shodan](https://www.shodan.io/) - Search Anything for the Internet of Everything
+* [Maltego](https://www.maltego.com/) - for gathering OSInt (Open Source Intelligence)
+* [Recon NG](https://www.geeksforgeeks.org/recon-ng-installation-on-kali-linux/)
+* [FM 2-22.3 Human Intelligence Collector Operations](https://en.wikipedia.org/wiki/FM_2-22.3_Human_Intelligence_Collector_Operations)
+* [Known Advanced Persistent Thread Groups](https://www.mandiant.com/resources/insights/apt-groups) - c/o FireEye
+* [CAPEC](https://capec.mitre.org/) - Common Attack Pattern Enumerations and Classifications (CAPEC™)
+* [CWE](https://cwe.mitre.org/) - Common Weakness Enumeration
+* [OVAL](https://oval.mitre.org/) - Open Vulnerability and Assessment Language
+* [SCAP](https://csrc.nist.gov/projects/security-content-automation-protocol/) - Security Content Automation Protocol
+* [CPE](https://nvd.nist.gov/products/cpe) - Common Platform Enumeration
+* [SnipeIT](https://snipeitapp.com/) - Best opensource asset management
 
 ## Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/) - crypto news
@@ -47,7 +58,7 @@ draft: false
 * [Nexo](https://nexo.io/ref/zfu7vnhgcf) - earn interest with your crypto here, paid daily
 * [Celsius Network](https://app.celsius.network/) - competitor of Nexo, will also let you earn interest paid weekly but curreently [undergoing Bankrupcy Proceedings](https://www.forbes.com/sites/haileylennon/2022/08/01/bankrupt-crypto-lender-celsius-could-leave-customers-last-in-line-to-get-paid/)
 * [StakeCube](https://stakecube.net) - best for earning highest BTC interest at 7% APY, paid daily.
-* [CoinGecko](https://coingecko.com) - best crypto historical price aggregator
+* [CoinGecko](https://coingecko.com) - best crypto historical price aggregator. For alternative, use [CoinMarketCap](https://coinmarketcap.com/)
 * [Panthera Capital Blockchain Letters](https://panteracapital.com/blockchain-letter/) - Panthera Capital newsletter
 * [Viewbase Funding Rate](https://www.viewbase.com/funding)
 * [Defi Llama](https://defillama.com/chains)
@@ -59,11 +70,10 @@ draft: false
 * [DogeChain](https://dogechain.dog/) - POS-based layer-2 chain to allow DOGE to benefit from DeFi, NFT as wDOGE
 * [MEV Explorer](https://explore.flashbots.net)
 * [Capital Market Insights - crypto related](https://app.intotheblock.com/insights/markets/indices/crypto-related)
-* [Shodan](https://www.shodan.io/) - Search Anything for the Internet of Everything
-* [Maltego](https://www.maltego.com/) - for gathering OSInt (Open Source Intelligence)
-* [Recon NG](https://www.geeksforgeeks.org/recon-ng-installation-on-kali-linux/)
-* [FM 2-22.3 Human Intelligence Collector Operations](https://en.wikipedia.org/wiki/FM_2-22.3_Human_Intelligence_Collector_Operations)
-* [Known Advanced Persistent Thread Groups](https://www.mandiant.com/resources/insights/apt-groups) - c/o FireEye
+
+### Ethereum-Specific
+* [Ethereum Blocktime](https://etherscan.io/chart/blocktime) - approx every 13 seconds
+* [What is gas in Ethereum](https://community.metamask.io/t/what-is-gas-why-do-transactions-take-so-long/3172) - you may also see the [gas report](https://coinmetrics.io/the-ethereum-gas-report/)
 
 ### Favorite Crypto Platforms important links
 * [Nexo - Minimum crypto to earn interest](https://support.nexo.io/hc/en-us/articles/360014748059-Minimum-amount-required-to-start-earning-high-yielding-up-to-12-APY-interest-on-your-crypto)
@@ -74,8 +84,6 @@ draft: false
 * [Nexo - processing time](https://support.nexo.io/hc/en-us/articles/360010650140-Processing-time-of-cryptocurrency-deposits-blockchain-confirmations-)
 * [Nexo - 0% fees for loans](https://nexo.io/blog/hello-0-borrowing-rates)
 * [Nexo - time to interest crediting](https://support.nexo.io/hc/en-us/articles/360014529240-Why-did-I-not-receive-interest-on-my-savings-)
-* [Celsius - Promo Codes](https://allaboutcelsius.com/active-celsius-promo-codes/)
-* [Celsius - Crypto Swap (BETA)](https://celsius.network/swap-crypto) - won't allow swap of loan proceeds unlike Nexo
 * [ETH Burned Analytics: Watchtheburn](https://www.watchtheburn.com)
 
 ## Opensource Aviation Data
