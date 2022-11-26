@@ -74,6 +74,8 @@ draft: false
 ### Ethereum-Specific
 * [Ethereum Blocktime](https://etherscan.io/chart/blocktime) - approx every 13 seconds
 * [What is gas in Ethereum](https://community.metamask.io/t/what-is-gas-why-do-transactions-take-so-long/3172) - you may also see the [gas report](https://coinmetrics.io/the-ethereum-gas-report/)
+* [Ethereum Average Gas Price](https://ycharts.com/indicators/ethereum_average_gas_price)
+* [Ethereum Gas Tracker](https://etherscan.io/gastracker)
 
 ### Favorite Crypto Platforms important links
 * [Nexo - Minimum crypto to earn interest](https://support.nexo.io/hc/en-us/articles/360014748059-Minimum-amount-required-to-start-earning-high-yielding-up-to-12-APY-interest-on-your-crypto)
