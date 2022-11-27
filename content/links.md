@@ -15,6 +15,7 @@ draft: false
 * [The New Stack](https://thenewstack.io)
 
 ## IT Security/CyberSecurity
+* [CompTIA CySA+ Full Course](https://www.youtube.com/playlist?list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx) - free youtube video 58 parts series
 * [TryHackMe](https://www.tryhackme.com/)
 * [PicoCTF](https://www.picoctf.org)
 * [CFTime](http://www.ctftime.org/)
