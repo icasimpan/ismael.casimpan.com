@@ -16,6 +16,9 @@ draft: false
 
 ## IT Security/CyberSecurity
 * [CompTIA CySA+ Full Course](https://www.youtube.com/playlist?list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx) - free youtube video 58 parts series
+* [Terraform Associate Certification Full Course](https://www.youtube.com/watch?v=V4waklkBC38) - youtube video (free)
+* [Kubernetest for Absolute Beginners](https://www.youtube.com/watch?v=r0uRLhrzbtU&list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5)
+* 
 * [TryHackMe](https://www.tryhackme.com/)
 * [PicoCTF](https://www.picoctf.org)
 * [CFTime](http://www.ctftime.org/)
