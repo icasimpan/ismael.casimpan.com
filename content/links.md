@@ -76,6 +76,7 @@ draft: false
 * [Capital Market Insights - crypto related](https://app.intotheblock.com/insights/markets/indices/crypto-related)
 * [Web3 Careers](https://web3.career/)
 * [MATIC: Mint NFT Today](https://mintnft.today/) - easy minting of NFT via Polygon and with zero gas fees. [Read this article for](https://polygon.technology/blog/how-to-mint-nfts-with-utility-gas-free-on-polygon) details.
+* [NFT School](https://nftschool.dev/)
 
 ### Ethereum-Specific
 * [Ethereum Blocktime](https://etherscan.io/chart/blocktime) - approx every 13 seconds
