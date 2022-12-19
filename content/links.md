@@ -88,6 +88,7 @@ draft: false
 * [Learn Solidity - Youtube](https://www.youtube.com/watch?v=sngKPYfUgkc&list=PLvfQp12V0hS2PQd9-X-E2AjmXj1o05WOo)
 * [Remix - Online Ethereum IDE](https://remix.ethereum.org/)
 * [Solidity Documentation](https://docs.soliditylang.org/)
+* [L2 Fees](https://l2fees.info/) - tracking of L2 Blockchain fees
 
 ### Favorite Crypto Platforms important links
 * [Nexo - Minimum crypto to earn interest](https://support.nexo.io/hc/en-us/articles/360014748059-Minimum-amount-required-to-start-earning-high-yielding-up-to-12-APY-interest-on-your-crypto)
