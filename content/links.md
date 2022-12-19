@@ -75,6 +75,7 @@ draft: false
 * [MEV Explorer](https://explore.flashbots.net)
 * [Capital Market Insights - crypto related](https://app.intotheblock.com/insights/markets/indices/crypto-related)
 * [Web3 Careers](https://web3.career/)
+* [MATIC: Mint NFT Today](https://mintnft.today/) - easy minting of NFT via Polygon and with zero gas fees
 
 ### Ethereum-Specific
 * [Ethereum Blocktime](https://etherscan.io/chart/blocktime) - approx every 13 seconds
