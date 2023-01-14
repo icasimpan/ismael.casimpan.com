@@ -53,6 +53,7 @@ draft: false
 * [SCAP](https://csrc.nist.gov/projects/security-content-automation-protocol/) - Security Content Automation Protocol
 * [CPE](https://nvd.nist.gov/products/cpe) - Common Platform Enumeration
 * [SnipeIT](https://snipeitapp.com/) - Best opensource asset management
+* [Henri Parkkinen Blog](https://henrikparkkinen.com/) - good insights from a veteran in Cybersecurity
 
 ## Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/) - crypto news
@@ -77,6 +78,9 @@ draft: false
 * [Web3 Careers](https://web3.career/)
 * [MATIC: Mint NFT Today](https://mintnft.today/) - easy minting of NFT via Polygon and with zero gas fees. [Read this article for](https://polygon.technology/blog/how-to-mint-nfts-with-utility-gas-free-on-polygon) details.
 * [NFT School](https://nftschool.dev/)
+* [ChainList](https://chainlist.wtf/) - verify authenticity of a Chain by checking it's Chain ID
+* [ImmutableX](https://www.immutable.com/) - Up and coming L2 blockchain (free gas fees and competitor to Polygon)
+
 
 ### Ethereum-Specific
 * [Ethereum Blocktime](https://etherscan.io/chart/blocktime) - approx every 13 seconds
