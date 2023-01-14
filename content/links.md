@@ -109,6 +109,9 @@ draft: false
 ## Opensource Aviation Data
 * [ADS-B Exchange](https://www.adsbexchange.com/) - World's largest source of unfiltered flight data
 
+## Blogroll
+* [Focused Chaos](https://www.focusedchaos.co/)
+
 ### Personal Crypto Charts (restricted)
 * >>> [BTC Fear and Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
 * [ETH/USDT](https://www.tradingview.com/chart/meYBPXZl/?symbol=BINANCE%3AETHUSDT)
