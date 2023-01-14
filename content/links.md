@@ -62,7 +62,7 @@ draft: false
 * [The Defiant](https://thedefiant.io/) - crypto news (mostly about DeFi or Decentralized Finance)
 * [Nexo](https://nexo.io/ref/zfu7vnhgcf) - earn interest with your crypto here, paid daily
 * [Celsius Network](https://app.celsius.network/) - competitor of Nexo, will also let you earn interest paid weekly but curreently [undergoing Bankrupcy Proceedings](https://www.forbes.com/sites/haileylennon/2022/08/01/bankrupt-crypto-lender-celsius-could-leave-customers-last-in-line-to-get-paid/)
-* [StakeCube](https://stakecube.net) - best for earning highest BTC interest at 7% APY, paid daily.
+* [StakeCube](https://stakecube.net) - dead as of Jan 2023
 * [CoinGecko](https://coingecko.com) - best crypto historical price aggregator. For alternative, use [CoinMarketCap](https://coinmarketcap.com/)
 * [Panthera Capital Blockchain Letters](https://panteracapital.com/blockchain-letter/) - Panthera Capital newsletter
 * [Viewbase Funding Rate](https://www.viewbase.com/funding)
