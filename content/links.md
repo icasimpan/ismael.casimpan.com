@@ -54,6 +54,8 @@ draft: false
 * [CPE](https://nvd.nist.gov/products/cpe) - Common Platform Enumeration
 * [SnipeIT](https://snipeitapp.com/) - Best opensource asset management
 * [Henri Parkkinen Blog](https://henrikparkkinen.com/) - good insights from a veteran in Cybersecurity
+* [KERnano: no-install pentesting tool](https://github.com/exeCODEable/KERnano)
+* [Pretty Powershell](https://christitus.com/pretty-powershell/)
 
 ## Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/) - crypto news
