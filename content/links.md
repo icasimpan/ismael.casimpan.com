@@ -56,6 +56,7 @@ draft: false
 * [Henri Parkkinen Blog](https://henrikparkkinen.com/) - good insights from a veteran in Cybersecurity
 * [KERnano: no-install pentesting tool](https://github.com/exeCODEable/KERnano)
 * [Pretty Powershell](https://christitus.com/pretty-powershell/)
+* [Unshorten URL](https://unshorten.it/) - checks shortened URLs for malicious intents.
 
 ## Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/) - crypto news
