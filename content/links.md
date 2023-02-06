@@ -142,6 +142,7 @@ draft: false
 ## Learn Python
 * [PyNative](https://pynative.com/python/)
 * [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/)
+* [Geospatial Analysis using Python](https://www.kaggle.com/learn/geospatial-analysis)
 
 ## Learn Go
 * [Go By Example](https://gobyexample.com/)
