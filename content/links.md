@@ -57,6 +57,7 @@ draft: false
 * [KERnano: no-install pentesting tool](https://github.com/exeCODEable/KERnano)
 * [Pretty Powershell](https://christitus.com/pretty-powershell/)
 * [Unshorten URL](https://unshorten.it/) - checks shortened URLs for malicious intents.
+* [Hexway Pentesting Tools](https://hexway.io/downloads/) - consolidated and downloadable Tools
 
 ## Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/) - crypto news
