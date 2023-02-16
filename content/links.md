@@ -248,7 +248,7 @@ draft: false
 
 # Productivity Tools
 * [Join MS Teams Meeting from Web](https://www.microsoft.com/en-ww/microsoft-teams/join-a-meeting)
-
+* [ManageIQ](https://www.manageiq.org/) - Cloud Infra Management software from RedHat (opensource)
 # Non-IT
 
 ## Amazing things
