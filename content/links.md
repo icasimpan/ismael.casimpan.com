@@ -9,6 +9,7 @@ draft: false
 
 ## Quick Learning
 * [Learn X in Y Minutes](https://learnxinyminutes.com/) - any programming language in a few minutes
+* [Roadmap.sh](https://roadmap.sh/)
 
 ## Docker / Kubernetes
 * [LinuxServer](https://www.linuxserver.io/) - community maintained docker images
@@ -58,6 +59,7 @@ draft: false
 * [Pretty Powershell](https://christitus.com/pretty-powershell/)
 * [Unshorten URL](https://unshorten.it/) - checks shortened URLs for malicious intents.
 * [Hexway Pentesting Tools](https://hexway.io/downloads/) - consolidated and downloadable Tools
+* [Open Source Vulnerability Management](https://osv.dev/) - OSV from Google
 
 ## Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/) - crypto news
@@ -112,6 +114,12 @@ draft: false
 
 ## Opensource Aviation Data
 * [ADS-B Exchange](https://www.adsbexchange.com/) - World's largest source of unfiltered flight data
+
+## Anroid ROM
+* [Android Open Source Project](https://source.android.com/)
+* [AOS Extended](https://github.com/orgs/AospExtended/repositories)
+* [CRDroid](https://crdroid.net/)
+* [Lineage](https://lineageos.org/)
 
 ## Blogroll
 * [Focused Chaos](https://www.focusedchaos.co/)
