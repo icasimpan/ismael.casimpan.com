@@ -195,6 +195,7 @@ draft: false
 ### Others
 * [DBeaver](https://dbeaver.io) - Universal Database Tool
 * [Matomo - Opensource alternative to Google Analytics](https://matomo.org/) - used by Ethereum Remix
+* [AMD Ryzen vs Intel i-series comparison](https://history-computer.com/ryzen-vs-intel/)
 
 ## Practical Frameworks
 * [HTMLy](https://www.htmly.com) - flat-file CMS that allows you to create a fast, secure, and powerful website or blog in seconnds.
