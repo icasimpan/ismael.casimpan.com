@@ -14,7 +14,14 @@ draft: false
 ## Docker / Kubernetes
 * [LinuxServer](https://www.linuxserver.io/) - community maintained docker images
 * [The New Stack](https://thenewstack.io)
+* [Kubernetes the Hard Way using VMs](https://medium.com/@DrewViles/kubernetes-the-hard-way-on-bare-metal-vms-v1-23-2168f5fe70af)
+* [Kubernetes the hard way - Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way/blob/master/docs/01-prerequisites.md)
 
+## Ansible
+* [Ansible Vault](https://tomsitcafe.com/2023/02/27/how-to-protect-sensitive-data-with-encrypted-files-or-elements-in-ansible-ansible-vault/)
+* https://faun.pub/https-medium-com-mikhail-advani-secret-management-with-ansible-3bfdd92472ef
+* https://www.redhat.com/sysadmin/ansible-playbooks-secrets
+* 
 ## IT Security/CyberSecurity
 * [CompTIA CySA+ Full Course](https://www.youtube.com/playlist?list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx) - free youtube video 58 parts series
 * [Terraform Associate Certification Full Course](https://www.youtube.com/watch?v=V4waklkBC38) - youtube video (free)
@@ -60,6 +67,13 @@ draft: false
 * [Unshorten URL](https://unshorten.it/) - checks shortened URLs for malicious intents.
 * [Hexway Pentesting Tools](https://hexway.io/downloads/) - consolidated and downloadable Tools
 * [Open Source Vulnerability Management](https://osv.dev/) - OSV from Google
+* [REMnux](https://remnux.org/) - REMnux: A Linux Toolkit for Malware Analysis
+* [TheHive](https://thehive-project.org/) - Opensource Security Operations Center
+* [Yara](https://virustotal.github.io/yara/) - The pattern matching swiss knife for malware
+* [Tuning Graylog](https://blog.reconinfosec.com/detecting-threats-with-graylog-pipelines)
+* [OSQuery](https://www.osquery.io/) - sql query for logs but seems that graylog is better
+* [OpenEDR](https://github.com/ComodoSecurity/openedr) - Endpoint Detection and Response
+* [sn1per](https://gbhackers.com/sn1per/) -  Most Advanced Automated Penetration Testing Tool – 2023
 
 ## Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/) - crypto news
