@@ -129,7 +129,7 @@ draft: false
 ## Opensource Aviation Data
 * [ADS-B Exchange](https://www.adsbexchange.com/) - World's largest source of unfiltered flight data
 
-## Anroid ROM
+## Android ROM
 * [Android Open Source Project](https://source.android.com/)
 * [AOS Extended](https://github.com/orgs/AospExtended/repositories)
 * [CRDroid](https://crdroid.net/)
@@ -137,6 +137,7 @@ draft: false
 
 ## Blogroll
 * [Focused Chaos](https://www.focusedchaos.co/)
+* [Ivan Velichko](https://iximiuz.com/en/) - Learning Containers, Kubernetes, and Backend Development
 
 ### Personal Crypto Charts (restricted)
 * >>> [BTC Fear and Greed Index](https://alternative.me/crypto/fear-and-greed-index/)
