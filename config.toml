@@ -82,6 +82,10 @@ features = [
     weight = 4
     url  = "/links/"
 [[menu.main]]
+    name = "Web3-feed"
+    weight = 4
+    url  = "/web3-feed/"
+[[menu.main]]
     name = "About"
     weight = 5
     url = "/about/"
