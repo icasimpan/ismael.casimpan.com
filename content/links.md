@@ -21,7 +21,8 @@ draft: false
 * [Ansible Vault](https://tomsitcafe.com/2023/02/27/how-to-protect-sensitive-data-with-encrypted-files-or-elements-in-ansible-ansible-vault/)
 * https://faun.pub/https-medium-com-mikhail-advani-secret-management-with-ansible-3bfdd92472ef
 * https://www.redhat.com/sysadmin/ansible-playbooks-secrets
-* 
+
+
 ## IT Security/CyberSecurity
 * [CompTIA CySA+ Full Course](https://www.youtube.com/playlist?list=PLMYSjEaGLw_vGxGsAIUgmkbEm52QR02tx) - free youtube video 58 parts series
 * [Terraform Associate Certification Full Course](https://www.youtube.com/watch?v=V4waklkBC38) - youtube video (free)
@@ -74,6 +75,7 @@ draft: false
 * [OSQuery](https://www.osquery.io/) - sql query for logs but seems that graylog is better
 * [OpenEDR](https://github.com/ComodoSecurity/openedr) - Endpoint Detection and Response
 * [sn1per](https://gbhackers.com/sn1per/) -  Most Advanced Automated Penetration Testing Tool – 2023
+* [DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) - Open source tool to Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers and more from text
 
 ## Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/) - crypto news
