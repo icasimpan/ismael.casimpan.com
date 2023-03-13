@@ -76,6 +76,7 @@ draft: false
 * [OpenEDR](https://github.com/ComodoSecurity/openedr) - Endpoint Detection and Response
 * [sn1per](https://gbhackers.com/sn1per/) -  Most Advanced Automated Penetration Testing Tool – 2023
 * [DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) - Open source tool to Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers and more from text
+* [Pentest Monkey](https://pentestmonkey.net/) - Taking the monkey work out of pentesting
 
 ## Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/) - crypto news
