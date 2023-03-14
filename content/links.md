@@ -77,6 +77,7 @@ draft: false
 * [sn1per](https://gbhackers.com/sn1per/) -  Most Advanced Automated Penetration Testing Tool – 2023
 * [DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) - Open source tool to Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers and more from text
 * [Pentest Monkey](https://pentestmonkey.net/) - Taking the monkey work out of pentesting
+* 
 
 ## Cryptocurrencies
 * [Coin Desk](https://www.coindesk.com/) - crypto news
@@ -103,7 +104,7 @@ draft: false
 * [NFT School](https://nftschool.dev/)
 * [ChainList](https://chainlist.wtf/) - verify authenticity of a Chain by checking it's Chain ID
 * [ImmutableX](https://www.immutable.com/) - Up and coming L2 blockchain (free gas fees and competitor to Polygon)
-
+* [GoPhish](https://getgophish.com/) - Open-Source Phishing Framework
 
 ### Ethereum-Specific
 * [Ethereum Blocktime](https://etherscan.io/chart/blocktime) - approx every 13 seconds
